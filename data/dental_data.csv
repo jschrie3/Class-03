@@ -1,0 +1,88 @@
+,price,facility,address,condition,zip,radius,city
+12,5.0,Philadelphia Health Center #2,"1720 S. Broad St., Philadelphia PA",dental,19102,100,Philadelphia
+13,29.0,Bright Now! Dental,"2130 S. Eagle Rd., Newtown PA",dental,19102,100,Philadelphia
+14,40.0,"Gelman, Dr. Robert J.","639 Market St., Camden NJ",dental,19102,100,Philadelphia
+15,50.0,Metropolitan Smiles,"119-56 Metropolitan Ave., Kew Gardens NY",dental,19102,100,Philadelphia
+16,50.0,Morris Heights Health Center,"25 E. 183rd St., Bronx NY",dental,19102,100,Philadelphia
+17,50.0,"Spector, Alan DDS","264-04 Union Tpke., Glen Oaks NY",dental,19102,100,Philadelphia
+18,54.0,Frankford Dental Care,"9523 Frankford Ave., Philadelphia PA",dental,19102,100,Philadelphia
+19,55.0,Saltz Dental Center,"616 Ave. of the States, Chester PA",dental,19102,100,Philadelphia
+20,58.0,Smile Dental,"175 Memorial Hwy., Ste. 1-11, New Rochelle NY",dental,19102,100,Philadelphia
+21,59.0,Comfort Dental Care,"599 Broadway, Ste. 1A, Paterson NJ",dental,19102,100,Philadelphia
+22,65.0,Simply Beautiful Smiles,"812 N. Easton Rd., Ste. 8, Doylestown PA",dental,19102,100,Philadelphia
+23,66.0,"Howard, Dr. Andrew L.","101 Madison Avenue, Ste. 400, Morristown NJ",dental,19102,100,Philadelphia
+24,67.0,Nunez Dental Services,"82-11 37th Ave., #704, Jackson Heights NY",dental,19102,100,Philadelphia
+25,69.0,Cherry Hill Family Dental,"1617 Kings Hwy, N., Cherry Hill NJ",dental,19102,100,Philadelphia
+26,70.0,Zonies-Holgado Dental Associates,"401 S. Kings Hwy, Ste. 2A, Cherry Hill NJ",dental,19102,100,Philadelphia
+27,70.0,Princeton Park Dental Associates,"188 N. Harrison St., Princeton NJ",dental,19102,100,Philadelphia
+28,70.0,Garden State Dental,"236 E. Westfield Ave., Roselle Park",dental,19102,100,Philadelphia
+29,71.0,Scheier Dental Group,"90 Millburn Ave., Ste. 105, Millburn NJ",dental,19102,100,Philadelphia
+30,75.0,Garces Dental Group,"212 Race St., Ste. 1A, Philadelphia PA",dental,19102,100,Philadelphia
+31,75.0,Castor Dental Care,"7258 Castor Ave., Philadelphia PA",dental,19102,100,Philadelphia
+32,75.0,"Tyl, Dr. J. Craig and Fogarty, Dr. Michael","601 Ewing St., Ste. B16, Princeton NJ",dental,19102,100,Philadelphia
+33,75.0,DNTL,"776 6th Ave., New York NY",dental,19102,100,Philadelphia
+34,89.0,Eastern Dental,"1030 Saint George Ave., Avenel NJ",dental,19102,100,Philadelphia
+35,92.0,Dentistry for Life,"1601 Walnut St., Ste. 1217, Philadelphia PA",dental,19102,100,Philadelphia
+36,99.0,Tribeca Dental Care,"402 Broadway, New York NY",dental,19102,100,Philadelphia
+37,100.0,Modern Family Dentistry,"551 Jersey Ave., Ste. A, Jersey City NJ",dental,19102,100,Philadelphia
+38,100.0,Metropolitan Dental,"225 Broadway, New York NY",dental,19102,100,Philadelphia
+39,115.0,Greene Street Dental,"72 Greene St., 3rd Fl., New York NY",dental,19102,100,Philadelphia
+40,120.0,Pearl Dental Arts,"4409 New Falls Rd., Levittown PA",dental,19102,100,Philadelphia
+41,120.0,NYU College of Dentistry,"345 E. 24th St., New York NY",dental,19102,100,Philadelphia
+42,130.0,ChildSmiles FamilySmiles,"66 Somme St., Newark NJ",dental,19102,100,Philadelphia
+43,135.0,NYU College of Dentistry,"345 E. 24th St., New York NY",dental,19102,100,Philadelphia
+44,150.0,"Mormino, Dr. Joseph MD","104 Windsor Rd., Staten Island NY",dental,19102,100,Philadelphia
+45,150.0,Dental Arts of Hoboken,"726 Washington St., Hoboken NJ",dental,19102,100,Philadelphia
+46,150.0,Paramus Park Dental,"1615 Paramus Park, Paramus NJ",dental,19102,100,Philadelphia
+47,169.0,South Jersey Dental Care,"212 W. Rt. 38, Ste. 500, Moorestown NJ",dental,19102,100,Philadelphia
+48,175.0,Cross County Dental,"1730 Central Park Ave. S., Yonkers NY",dental,19102,100,Philadelphia
+49,124.0,Upper West Side Dental,"992 Columbus Ave, New York, NY 10025, USA",dental,19102,100,Philadelphia
+54,75.0,Oakland Dental Care,"1700 Broadway, Oakland CA",dental,94016,100,San Francisco
+55,80.0,Blossom Dental Excellence,"6134 Camino Verde Dr., Ste. E, San Jose CA",dental,94016,100,San Francisco
+56,120.0,Alameda Landing Dentistry,"2660 5th St., Ste. C, Alameda CA",dental,94016,100,San Francisco
+57,169.0,Marina Dental of Petaluma,"765 Baywood Dr., Ste. 233, Petaluma CA",dental,94016,100,San Francisco
+58,175.0,Haight Street Dental,"786 Haight St., San Francisco CA",dental,94016,100,San Francisco
+59,176.0,Tseng Family Dental,"251 High St., Ste. A, Palo Alto CA",dental,94016,100,San Francisco
+60,200.0,Sonrisas Community Dental Center,"210 San Mateo Rd., Ste. 104, Half Moon Bay CA",dental,94016,100,San Francisco
+61,213.0,Belva Dental,"66 San Pedro Rd., Ste. B, Daly City CA",dental,94016,100,San Francisco
+62,245.0,St. Francis General and Cosmetic Dentistry,"683 Folsom St., San Francisco CA",dental,94016,100,San Francisco
+63,250.0,"Levine, Scott DDS","918 The Alameda, Berkeley CA",dental,94016,100,San Francisco
+64,261.0,"Hallisy, Julia, DDS","345 West Portal Ave., Ste. 210, San Francisco CA",dental,94016,100,San Francisco
+65,261.0,"Choi, Robert P., DDS","675 Mariners Island Blvd., Ste. 101, San Mateo CA",dental,94016,100,San Francisco
+66,275.0,Union Square Dental Practice,"450 Sutter St., Ste. 1326, San Francisco CA",dental,94016,100,San Francisco
+67,295.0,"Avalos, Veronica, DDS","1131 Mission Rd., S. San Francisco CA",dental,94016,100,San Francisco
+68,300.0,South Beach Dental,"290 King St., Ste. 8, San Francisco CA",dental,94016,100,San Francisco
+69,312.0,Fountaingrove Dentistry: Erlach Robert DDS,"2305 Mendocino Ave., A, Santa Rosa CA",dental,94016,100,San Francisco
+70,376.0,Washingon Square Park Dental,"1719 Powell St., San Francisco CA",dental,94016,100,San Francisco
+73,39.0,Tampa Aesthetic Dental,"101 N. Franklin St., Ste. E, Tampa FL",dental,33602,100,Tampa
+74,49.0,Mikel H Hopkins,"1952 Bayshore Blvd, Dunedin, FL 34698, USA",dental,33602,100,Tampa
+75,49.0,Hopkins Aesthetic & Reconstructive Dentistry,"1952 Bayshore Blvd, Dunedin, FL 34698, USA",dental,33602,100,Tampa
+76,55.0,"Martin, Dr. Charles","1810 S. MacDill Ave., Ste. 3, Tampa FL",dental,33602,100,Tampa
+77,60.0,Doering Family Dental,"1201 W. Linebaugh Ave., Tampa FL",dental,33602,100,Tampa
+78,61.0,Resnick Family Dental,"6450 Central Ave., St. Petersburg FL",dental,33602,100,Tampa
+79,83.0,Clearwater Family Dental,"215 S. Myrtle Ave., Clearwater FL",dental,33602,100,Tampa
+80,100.0,"Monticciolo, Dr. Vincent","8327 W. Hillsborough Ave., Tampa FL",dental,33602,100,Tampa
+81,104.0,North Pointe Dental Associates,"801 W. Fletcher Ave., Tampa FL",dental,33602,100,Tampa
+82,114.0,"Bailey, Dr. Janet","2124 Gulf Gate Dr., Sarasota FL",dental,33602,100,Tampa
+83,125.0,South Tampa Dentistry,"3308 S. Dale Mabry Hwy., Tampa FL",dental,33602,100,Tampa
+84,140.0,Chamberlain General and Sedation Dentistry,"555 S. Hercules Ave., Clearwater FL",dental,33602,100,Tampa
+85,199.0,Jackson Dental,"101 E. Kennedy Blvd., Ste. 300, Tampa FL",dental,33602,100,Tampa
+86,200.0,Advanced Dental Care of Tampa,"3904-H W. Hillsborough Ave., Tampa FL",dental,33602,100,Tampa
+87,207.0,Aspen Dental,"12813 Dale Mabry Hwy., Tampa FL",dental,33602,100,Tampa
+88,415.0,"King, Dr. Susan","3702 W. Swann Ave., Tampa FL",dental,33602,100,Tampa
+89,25.0,Shifa Dental,"5509 Pleasant Valley Dr., Plano TX",dental,75001,100,Dallas
+90,50.0,Pro Smiles Dental & Orthodontics,"9400 Clifford St., #110, Fort Worth TX",dental,75001,100,Dallas
+91,55.0,"Geyer, Dr. Mark S. DDS","8350 N. Central Expy., Ste. G-105, Dallas TX",dental,75001,100,Dallas
+92,69.0,AmeriSmiles,"3310 Live Oak St., Ste. 200, Dallas TX",dental,75001,100,Dallas
+93,91.0,Mallery Family Dental,"719 N Fielder Rd, Arlington, TX 76012, USA",dental,75001,100,Dallas
+94,99.0,Paragon Dentistry,"705 S. Custer Rd., Ste. 150, Allen TX",dental,75001,100,Dallas
+95,137.0,Harris Southwest Dental,"7200 Red Hawk Ct., Ft. Worth TX",dental,75001,100,Dallas
+96,182.0,Crowley Family Dentistry,"204 W. Main St., Crowley TX",dental,75001,100,Dallas
+97,195.0,"Adkins, Dr. James M. DDS","2109 W. Spring Creek Pkwy., Ste. 100, Dallas TX",dental,75001,100,Dallas
+98,210.0,"Robinson, Dr. Dena T. DDS","9409 Garland Rd., Ste. 105, Dallas TX",dental,75001,100,Dallas
+99,236.0,"Gray, Dr. James T. DDS","901 S. Center St., Arlington TX",dental,75001,100,Dallas
+100,240.0,"Macalik, Dr. Alana K. DDS","2265 W. Green Oaks Blvd., Arlington TX",dental,75001,100,Dallas
+101,244.0,Northpark Dental Associates,"6500 Greenville Ave., Ste. 303, Dallas TX",dental,75001,100,Dallas
+102,247.0,Ellis County Family Dental,"110 Park Place Ct., #100, Waxahachie TX",dental,75001,100,Dallas
+103,345.0,"Brigati, Dr. Jessica H., DDS, PLLC","4900 Overton Ridge Blvd., Ste. 210, Ft. Worth TX",dental,75001,100,Dallas
+104,95.0,Mallery Family Dental,"719 N Fielder Rd, Arlington, TX 76012, USA",dental,75001,100,Dallas
