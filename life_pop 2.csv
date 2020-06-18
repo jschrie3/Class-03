@@ -1,0 +1,3169 @@
+,Year,Country
+0,1990,Afghanistan
+1,1990,Albania
+2,1990,Algeria
+3,1990,American Samoa
+4,1990,Andorra
+5,1990,Angola
+6,1990,Antigua and Barbuda
+7,1990,Argentina
+8,1990,Armenia
+9,1990,Aruba
+10,1990,Australia
+11,1990,Austria
+12,1990,Azerbaijan
+13,1990,"Bahamas, The"
+14,1990,Bahrain
+15,1990,Bangladesh
+16,1990,Barbados
+17,1990,Belarus
+18,1990,Belgium
+19,1990,Belize
+20,1990,Benin
+21,1990,Bermuda
+22,1990,Bhutan
+23,1990,Bolivia
+24,1990,Bosnia and Herzegovina
+25,1990,Botswana
+26,1990,Brazil
+27,1990,British Virgin Islands
+28,1990,Brunei Darussalam
+29,1990,Bulgaria
+30,1990,Burkina Faso
+31,1990,Burundi
+32,1990,Cabo Verde
+33,1990,Cambodia
+34,1990,Cameroon
+35,1990,Canada
+36,1990,Cayman Islands
+37,1990,Central African Republic
+38,1990,Chad
+39,1990,Channel Islands
+40,1990,Chile
+41,1990,China
+42,1990,Colombia
+43,1990,Comoros
+44,1990,"Congo, Dem. Rep."
+45,1990,"Congo, Rep."
+46,1990,Costa Rica
+47,1990,Cote d'Ivoire
+48,1990,Croatia
+49,1990,Cuba
+50,1990,Curacao
+51,1990,Cyprus
+52,1990,Czech Republic
+53,1990,Denmark
+54,1990,Djibouti
+55,1990,Dominica
+56,1990,Dominican Republic
+57,1990,Ecuador
+58,1990,"Egypt, Arab Rep."
+59,1990,El Salvador
+60,1990,Equatorial Guinea
+61,1990,Eritrea
+62,1990,Estonia
+63,1990,Eswatini
+64,1990,Ethiopia
+65,1990,Faroe Islands
+66,1990,Fiji
+67,1990,Finland
+68,1990,France
+69,1990,French Polynesia
+70,1990,Gabon
+71,1990,"Gambia, The"
+72,1990,Georgia
+73,1990,Germany
+74,1990,Ghana
+75,1990,Gibraltar
+76,1990,Greece
+77,1990,Greenland
+78,1990,Grenada
+79,1990,Guam
+80,1990,Guatemala
+81,1990,Guinea
+82,1990,Guinea-Bissau
+83,1990,Guyana
+84,1990,Haiti
+85,1990,Honduras
+86,1990,"Hong Kong SAR, China"
+87,1990,Hungary
+88,1990,Iceland
+89,1990,India
+90,1990,Indonesia
+91,1990,"Iran, Islamic Rep."
+92,1990,Iraq
+93,1990,Ireland
+94,1990,Isle of Man
+95,1990,Israel
+96,1990,Italy
+97,1990,Jamaica
+98,1990,Japan
+99,1990,Jordan
+100,1990,Kazakhstan
+101,1990,Kenya
+102,1990,Kiribati
+103,1990,"Korea, Dem. People’s Rep."
+104,1990,"Korea, Rep."
+105,1990,Kosovo
+106,1990,Kuwait
+107,1990,Kyrgyz Republic
+108,1990,Lao PDR
+109,1990,Latvia
+110,1990,Lebanon
+111,1990,Lesotho
+112,1990,Liberia
+113,1990,Libya
+114,1990,Liechtenstein
+115,1990,Lithuania
+116,1990,Luxembourg
+117,1990,"Macao SAR, China"
+118,1990,Madagascar
+119,1990,Malawi
+120,1990,Malaysia
+121,1990,Maldives
+122,1990,Mali
+123,1990,Malta
+124,1990,Marshall Islands
+125,1990,Mauritania
+126,1990,Mauritius
+127,1990,Mexico
+128,1990,"Micronesia, Fed. Sts."
+129,1990,Moldova
+130,1990,Monaco
+131,1990,Mongolia
+132,1990,Montenegro
+133,1990,Morocco
+134,1990,Mozambique
+135,1990,Myanmar
+136,1990,Namibia
+137,1990,Nauru
+138,1990,Nepal
+139,1990,Netherlands
+140,1990,New Caledonia
+141,1990,New Zealand
+142,1990,Nicaragua
+143,1990,Niger
+144,1990,Nigeria
+145,1990,North Macedonia
+146,1990,Northern Mariana Islands
+147,1990,Norway
+148,1990,Oman
+149,1990,Pakistan
+150,1990,Palau
+151,1990,Panama
+152,1990,Papua New Guinea
+153,1990,Paraguay
+154,1990,Peru
+155,1990,Philippines
+156,1990,Poland
+157,1990,Portugal
+158,1990,Puerto Rico
+159,1990,Qatar
+160,1990,Romania
+161,1990,Russian Federation
+162,1990,Rwanda
+163,1990,Samoa
+164,1990,San Marino
+165,1990,Sao Tome and Principe
+166,1990,Saudi Arabia
+167,1990,Senegal
+168,1990,Serbia
+169,1990,Seychelles
+170,1990,Sierra Leone
+171,1990,Singapore
+172,1990,Sint Maarten (Dutch part)
+173,1990,Slovak Republic
+174,1990,Slovenia
+175,1990,Solomon Islands
+176,1990,Somalia
+177,1990,South Africa
+178,1990,South Sudan
+179,1990,Spain
+180,1990,Sri Lanka
+181,1990,St. Kitts and Nevis
+182,1990,St. Lucia
+183,1990,St. Martin (French part)
+184,1990,St. Vincent and the Grenadines
+185,1990,Sudan
+186,1990,Suriname
+187,1990,Sweden
+188,1990,Switzerland
+189,1990,Syrian Arab Republic
+190,1990,Tajikistan
+191,1990,Tanzania
+192,1990,Thailand
+193,1990,Timor-Leste
+194,1990,Togo
+195,1990,Tonga
+196,1990,Trinidad and Tobago
+197,1990,Tunisia
+198,1990,Turkey
+199,1990,Turkmenistan
+200,1990,Turks and Caicos Islands
+201,1990,Tuvalu
+202,1990,Uganda
+203,1990,Ukraine
+204,1990,United Arab Emirates
+205,1990,United Kingdom
+206,1990,United States
+207,1990,Uruguay
+208,1990,Uzbekistan
+209,1990,Vanuatu
+210,1990,"Venezuela, RB"
+211,1990,Vietnam
+212,1990,Virgin Islands (U.S.)
+213,1990,West Bank and Gaza
+214,1990,"Yemen, Rep."
+215,1990,Zambia
+216,1990,Zimbabwe
+217,1990,Arab World
+218,1990,Caribbean small states
+219,1990,Central Europe and the Baltics
+220,1990,Early-demographic dividend
+221,1990,East Asia & Pacific
+222,1990,East Asia & Pacific (excluding high income)
+223,1990,East Asia & Pacific (IDA & IBRD countries)
+224,1990,Euro area
+225,1990,Europe & Central Asia
+226,1990,Europe & Central Asia (excluding high income)
+227,1990,Europe & Central Asia (IDA & IBRD countries)
+228,1990,European Union
+229,1990,Fragile and conflict affected situations
+230,1990,Heavily indebted poor countries (HIPC)
+231,1990,High income
+232,1990,IBRD only
+233,1990,IDA & IBRD total
+234,1990,IDA blend
+235,1990,IDA only
+236,1990,IDA total
+237,1990,Late-demographic dividend
+238,1990,Latin America & Caribbean
+239,1990,Latin America & Caribbean (excluding high income)
+240,1990,Latin America & the Caribbean (IDA & IBRD countries)
+241,1990,Least developed countries: UN classification
+242,1990,Low & middle income
+243,1990,Low income
+244,1990,Lower middle income
+245,1990,Middle East & North Africa
+246,1990,Middle East & North Africa (excluding high income)
+247,1990,Middle East & North Africa (IDA & IBRD countries)
+248,1990,Middle income
+249,1990,North America
+250,1990,Not classified
+251,1990,OECD members
+252,1990,Other small states
+253,1990,Pacific island small states
+254,1990,Post-demographic dividend
+255,1990,Pre-demographic dividend
+256,1990,Small states
+257,1990,South Asia
+258,1990,South Asia (IDA & IBRD)
+259,1990,Sub-Saharan Africa
+260,1990,Sub-Saharan Africa (excluding high income)
+261,1990,Sub-Saharan Africa (IDA & IBRD countries)
+262,1990,Upper middle income
+263,1990,World
+264,2000,Afghanistan
+265,2000,Albania
+266,2000,Algeria
+267,2000,American Samoa
+268,2000,Andorra
+269,2000,Angola
+270,2000,Antigua and Barbuda
+271,2000,Argentina
+272,2000,Armenia
+273,2000,Aruba
+274,2000,Australia
+275,2000,Austria
+276,2000,Azerbaijan
+277,2000,"Bahamas, The"
+278,2000,Bahrain
+279,2000,Bangladesh
+280,2000,Barbados
+281,2000,Belarus
+282,2000,Belgium
+283,2000,Belize
+284,2000,Benin
+285,2000,Bermuda
+286,2000,Bhutan
+287,2000,Bolivia
+288,2000,Bosnia and Herzegovina
+289,2000,Botswana
+290,2000,Brazil
+291,2000,British Virgin Islands
+292,2000,Brunei Darussalam
+293,2000,Bulgaria
+294,2000,Burkina Faso
+295,2000,Burundi
+296,2000,Cabo Verde
+297,2000,Cambodia
+298,2000,Cameroon
+299,2000,Canada
+300,2000,Cayman Islands
+301,2000,Central African Republic
+302,2000,Chad
+303,2000,Channel Islands
+304,2000,Chile
+305,2000,China
+306,2000,Colombia
+307,2000,Comoros
+308,2000,"Congo, Dem. Rep."
+309,2000,"Congo, Rep."
+310,2000,Costa Rica
+311,2000,Cote d'Ivoire
+312,2000,Croatia
+313,2000,Cuba
+314,2000,Curacao
+315,2000,Cyprus
+316,2000,Czech Republic
+317,2000,Denmark
+318,2000,Djibouti
+319,2000,Dominica
+320,2000,Dominican Republic
+321,2000,Ecuador
+322,2000,"Egypt, Arab Rep."
+323,2000,El Salvador
+324,2000,Equatorial Guinea
+325,2000,Eritrea
+326,2000,Estonia
+327,2000,Eswatini
+328,2000,Ethiopia
+329,2000,Faroe Islands
+330,2000,Fiji
+331,2000,Finland
+332,2000,France
+333,2000,French Polynesia
+334,2000,Gabon
+335,2000,"Gambia, The"
+336,2000,Georgia
+337,2000,Germany
+338,2000,Ghana
+339,2000,Gibraltar
+340,2000,Greece
+341,2000,Greenland
+342,2000,Grenada
+343,2000,Guam
+344,2000,Guatemala
+345,2000,Guinea
+346,2000,Guinea-Bissau
+347,2000,Guyana
+348,2000,Haiti
+349,2000,Honduras
+350,2000,"Hong Kong SAR, China"
+351,2000,Hungary
+352,2000,Iceland
+353,2000,India
+354,2000,Indonesia
+355,2000,"Iran, Islamic Rep."
+356,2000,Iraq
+357,2000,Ireland
+358,2000,Isle of Man
+359,2000,Israel
+360,2000,Italy
+361,2000,Jamaica
+362,2000,Japan
+363,2000,Jordan
+364,2000,Kazakhstan
+365,2000,Kenya
+366,2000,Kiribati
+367,2000,"Korea, Dem. People’s Rep."
+368,2000,"Korea, Rep."
+369,2000,Kosovo
+370,2000,Kuwait
+371,2000,Kyrgyz Republic
+372,2000,Lao PDR
+373,2000,Latvia
+374,2000,Lebanon
+375,2000,Lesotho
+376,2000,Liberia
+377,2000,Libya
+378,2000,Liechtenstein
+379,2000,Lithuania
+380,2000,Luxembourg
+381,2000,"Macao SAR, China"
+382,2000,Madagascar
+383,2000,Malawi
+384,2000,Malaysia
+385,2000,Maldives
+386,2000,Mali
+387,2000,Malta
+388,2000,Marshall Islands
+389,2000,Mauritania
+390,2000,Mauritius
+391,2000,Mexico
+392,2000,"Micronesia, Fed. Sts."
+393,2000,Moldova
+394,2000,Monaco
+395,2000,Mongolia
+396,2000,Montenegro
+397,2000,Morocco
+398,2000,Mozambique
+399,2000,Myanmar
+400,2000,Namibia
+401,2000,Nauru
+402,2000,Nepal
+403,2000,Netherlands
+404,2000,New Caledonia
+405,2000,New Zealand
+406,2000,Nicaragua
+407,2000,Niger
+408,2000,Nigeria
+409,2000,North Macedonia
+410,2000,Northern Mariana Islands
+411,2000,Norway
+412,2000,Oman
+413,2000,Pakistan
+414,2000,Palau
+415,2000,Panama
+416,2000,Papua New Guinea
+417,2000,Paraguay
+418,2000,Peru
+419,2000,Philippines
+420,2000,Poland
+421,2000,Portugal
+422,2000,Puerto Rico
+423,2000,Qatar
+424,2000,Romania
+425,2000,Russian Federation
+426,2000,Rwanda
+427,2000,Samoa
+428,2000,San Marino
+429,2000,Sao Tome and Principe
+430,2000,Saudi Arabia
+431,2000,Senegal
+432,2000,Serbia
+433,2000,Seychelles
+434,2000,Sierra Leone
+435,2000,Singapore
+436,2000,Sint Maarten (Dutch part)
+437,2000,Slovak Republic
+438,2000,Slovenia
+439,2000,Solomon Islands
+440,2000,Somalia
+441,2000,South Africa
+442,2000,South Sudan
+443,2000,Spain
+444,2000,Sri Lanka
+445,2000,St. Kitts and Nevis
+446,2000,St. Lucia
+447,2000,St. Martin (French part)
+448,2000,St. Vincent and the Grenadines
+449,2000,Sudan
+450,2000,Suriname
+451,2000,Sweden
+452,2000,Switzerland
+453,2000,Syrian Arab Republic
+454,2000,Tajikistan
+455,2000,Tanzania
+456,2000,Thailand
+457,2000,Timor-Leste
+458,2000,Togo
+459,2000,Tonga
+460,2000,Trinidad and Tobago
+461,2000,Tunisia
+462,2000,Turkey
+463,2000,Turkmenistan
+464,2000,Turks and Caicos Islands
+465,2000,Tuvalu
+466,2000,Uganda
+467,2000,Ukraine
+468,2000,United Arab Emirates
+469,2000,United Kingdom
+470,2000,United States
+471,2000,Uruguay
+472,2000,Uzbekistan
+473,2000,Vanuatu
+474,2000,"Venezuela, RB"
+475,2000,Vietnam
+476,2000,Virgin Islands (U.S.)
+477,2000,West Bank and Gaza
+478,2000,"Yemen, Rep."
+479,2000,Zambia
+480,2000,Zimbabwe
+481,2000,Arab World
+482,2000,Caribbean small states
+483,2000,Central Europe and the Baltics
+484,2000,Early-demographic dividend
+485,2000,East Asia & Pacific
+486,2000,East Asia & Pacific (excluding high income)
+487,2000,East Asia & Pacific (IDA & IBRD countries)
+488,2000,Euro area
+489,2000,Europe & Central Asia
+490,2000,Europe & Central Asia (excluding high income)
+491,2000,Europe & Central Asia (IDA & IBRD countries)
+492,2000,European Union
+493,2000,Fragile and conflict affected situations
+494,2000,Heavily indebted poor countries (HIPC)
+495,2000,High income
+496,2000,IBRD only
+497,2000,IDA & IBRD total
+498,2000,IDA blend
+499,2000,IDA only
+500,2000,IDA total
+501,2000,Late-demographic dividend
+502,2000,Latin America & Caribbean
+503,2000,Latin America & Caribbean (excluding high income)
+504,2000,Latin America & the Caribbean (IDA & IBRD countries)
+505,2000,Least developed countries: UN classification
+506,2000,Low & middle income
+507,2000,Low income
+508,2000,Lower middle income
+509,2000,Middle East & North Africa
+510,2000,Middle East & North Africa (excluding high income)
+511,2000,Middle East & North Africa (IDA & IBRD countries)
+512,2000,Middle income
+513,2000,North America
+514,2000,Not classified
+515,2000,OECD members
+516,2000,Other small states
+517,2000,Pacific island small states
+518,2000,Post-demographic dividend
+519,2000,Pre-demographic dividend
+520,2000,Small states
+521,2000,South Asia
+522,2000,South Asia (IDA & IBRD)
+523,2000,Sub-Saharan Africa
+524,2000,Sub-Saharan Africa (excluding high income)
+525,2000,Sub-Saharan Africa (IDA & IBRD countries)
+526,2000,Upper middle income
+527,2000,World
+528,2010,Afghanistan
+529,2010,Albania
+530,2010,Algeria
+531,2010,American Samoa
+532,2010,Andorra
+533,2010,Angola
+534,2010,Antigua and Barbuda
+535,2010,Argentina
+536,2010,Armenia
+537,2010,Aruba
+538,2010,Australia
+539,2010,Austria
+540,2010,Azerbaijan
+541,2010,"Bahamas, The"
+542,2010,Bahrain
+543,2010,Bangladesh
+544,2010,Barbados
+545,2010,Belarus
+546,2010,Belgium
+547,2010,Belize
+548,2010,Benin
+549,2010,Bermuda
+550,2010,Bhutan
+551,2010,Bolivia
+552,2010,Bosnia and Herzegovina
+553,2010,Botswana
+554,2010,Brazil
+555,2010,British Virgin Islands
+556,2010,Brunei Darussalam
+557,2010,Bulgaria
+558,2010,Burkina Faso
+559,2010,Burundi
+560,2010,Cabo Verde
+561,2010,Cambodia
+562,2010,Cameroon
+563,2010,Canada
+564,2010,Cayman Islands
+565,2010,Central African Republic
+566,2010,Chad
+567,2010,Channel Islands
+568,2010,Chile
+569,2010,China
+570,2010,Colombia
+571,2010,Comoros
+572,2010,"Congo, Dem. Rep."
+573,2010,"Congo, Rep."
+574,2010,Costa Rica
+575,2010,Cote d'Ivoire
+576,2010,Croatia
+577,2010,Cuba
+578,2010,Curacao
+579,2010,Cyprus
+580,2010,Czech Republic
+581,2010,Denmark
+582,2010,Djibouti
+583,2010,Dominica
+584,2010,Dominican Republic
+585,2010,Ecuador
+586,2010,"Egypt, Arab Rep."
+587,2010,El Salvador
+588,2010,Equatorial Guinea
+589,2010,Eritrea
+590,2010,Estonia
+591,2010,Eswatini
+592,2010,Ethiopia
+593,2010,Faroe Islands
+594,2010,Fiji
+595,2010,Finland
+596,2010,France
+597,2010,French Polynesia
+598,2010,Gabon
+599,2010,"Gambia, The"
+600,2010,Georgia
+601,2010,Germany
+602,2010,Ghana
+603,2010,Gibraltar
+604,2010,Greece
+605,2010,Greenland
+606,2010,Grenada
+607,2010,Guam
+608,2010,Guatemala
+609,2010,Guinea
+610,2010,Guinea-Bissau
+611,2010,Guyana
+612,2010,Haiti
+613,2010,Honduras
+614,2010,"Hong Kong SAR, China"
+615,2010,Hungary
+616,2010,Iceland
+617,2010,India
+618,2010,Indonesia
+619,2010,"Iran, Islamic Rep."
+620,2010,Iraq
+621,2010,Ireland
+622,2010,Isle of Man
+623,2010,Israel
+624,2010,Italy
+625,2010,Jamaica
+626,2010,Japan
+627,2010,Jordan
+628,2010,Kazakhstan
+629,2010,Kenya
+630,2010,Kiribati
+631,2010,"Korea, Dem. People’s Rep."
+632,2010,"Korea, Rep."
+633,2010,Kosovo
+634,2010,Kuwait
+635,2010,Kyrgyz Republic
+636,2010,Lao PDR
+637,2010,Latvia
+638,2010,Lebanon
+639,2010,Lesotho
+640,2010,Liberia
+641,2010,Libya
+642,2010,Liechtenstein
+643,2010,Lithuania
+644,2010,Luxembourg
+645,2010,"Macao SAR, China"
+646,2010,Madagascar
+647,2010,Malawi
+648,2010,Malaysia
+649,2010,Maldives
+650,2010,Mali
+651,2010,Malta
+652,2010,Marshall Islands
+653,2010,Mauritania
+654,2010,Mauritius
+655,2010,Mexico
+656,2010,"Micronesia, Fed. Sts."
+657,2010,Moldova
+658,2010,Monaco
+659,2010,Mongolia
+660,2010,Montenegro
+661,2010,Morocco
+662,2010,Mozambique
+663,2010,Myanmar
+664,2010,Namibia
+665,2010,Nauru
+666,2010,Nepal
+667,2010,Netherlands
+668,2010,New Caledonia
+669,2010,New Zealand
+670,2010,Nicaragua
+671,2010,Niger
+672,2010,Nigeria
+673,2010,North Macedonia
+674,2010,Northern Mariana Islands
+675,2010,Norway
+676,2010,Oman
+677,2010,Pakistan
+678,2010,Palau
+679,2010,Panama
+680,2010,Papua New Guinea
+681,2010,Paraguay
+682,2010,Peru
+683,2010,Philippines
+684,2010,Poland
+685,2010,Portugal
+686,2010,Puerto Rico
+687,2010,Qatar
+688,2010,Romania
+689,2010,Russian Federation
+690,2010,Rwanda
+691,2010,Samoa
+692,2010,San Marino
+693,2010,Sao Tome and Principe
+694,2010,Saudi Arabia
+695,2010,Senegal
+696,2010,Serbia
+697,2010,Seychelles
+698,2010,Sierra Leone
+699,2010,Singapore
+700,2010,Sint Maarten (Dutch part)
+701,2010,Slovak Republic
+702,2010,Slovenia
+703,2010,Solomon Islands
+704,2010,Somalia
+705,2010,South Africa
+706,2010,South Sudan
+707,2010,Spain
+708,2010,Sri Lanka
+709,2010,St. Kitts and Nevis
+710,2010,St. Lucia
+711,2010,St. Martin (French part)
+712,2010,St. Vincent and the Grenadines
+713,2010,Sudan
+714,2010,Suriname
+715,2010,Sweden
+716,2010,Switzerland
+717,2010,Syrian Arab Republic
+718,2010,Tajikistan
+719,2010,Tanzania
+720,2010,Thailand
+721,2010,Timor-Leste
+722,2010,Togo
+723,2010,Tonga
+724,2010,Trinidad and Tobago
+725,2010,Tunisia
+726,2010,Turkey
+727,2010,Turkmenistan
+728,2010,Turks and Caicos Islands
+729,2010,Tuvalu
+730,2010,Uganda
+731,2010,Ukraine
+732,2010,United Arab Emirates
+733,2010,United Kingdom
+734,2010,United States
+735,2010,Uruguay
+736,2010,Uzbekistan
+737,2010,Vanuatu
+738,2010,"Venezuela, RB"
+739,2010,Vietnam
+740,2010,Virgin Islands (U.S.)
+741,2010,West Bank and Gaza
+742,2010,"Yemen, Rep."
+743,2010,Zambia
+744,2010,Zimbabwe
+745,2010,Arab World
+746,2010,Caribbean small states
+747,2010,Central Europe and the Baltics
+748,2010,Early-demographic dividend
+749,2010,East Asia & Pacific
+750,2010,East Asia & Pacific (excluding high income)
+751,2010,East Asia & Pacific (IDA & IBRD countries)
+752,2010,Euro area
+753,2010,Europe & Central Asia
+754,2010,Europe & Central Asia (excluding high income)
+755,2010,Europe & Central Asia (IDA & IBRD countries)
+756,2010,European Union
+757,2010,Fragile and conflict affected situations
+758,2010,Heavily indebted poor countries (HIPC)
+759,2010,High income
+760,2010,IBRD only
+761,2010,IDA & IBRD total
+762,2010,IDA blend
+763,2010,IDA only
+764,2010,IDA total
+765,2010,Late-demographic dividend
+766,2010,Latin America & Caribbean
+767,2010,Latin America & Caribbean (excluding high income)
+768,2010,Latin America & the Caribbean (IDA & IBRD countries)
+769,2010,Least developed countries: UN classification
+770,2010,Low & middle income
+771,2010,Low income
+772,2010,Lower middle income
+773,2010,Middle East & North Africa
+774,2010,Middle East & North Africa (excluding high income)
+775,2010,Middle East & North Africa (IDA & IBRD countries)
+776,2010,Middle income
+777,2010,North America
+778,2010,Not classified
+779,2010,OECD members
+780,2010,Other small states
+781,2010,Pacific island small states
+782,2010,Post-demographic dividend
+783,2010,Pre-demographic dividend
+784,2010,Small states
+785,2010,South Asia
+786,2010,South Asia (IDA & IBRD)
+787,2010,Sub-Saharan Africa
+788,2010,Sub-Saharan Africa (excluding high income)
+789,2010,Sub-Saharan Africa (IDA & IBRD countries)
+790,2010,Upper middle income
+791,2010,World
+792,2011,Afghanistan
+793,2011,Albania
+794,2011,Algeria
+795,2011,American Samoa
+796,2011,Andorra
+797,2011,Angola
+798,2011,Antigua and Barbuda
+799,2011,Argentina
+800,2011,Armenia
+801,2011,Aruba
+802,2011,Australia
+803,2011,Austria
+804,2011,Azerbaijan
+805,2011,"Bahamas, The"
+806,2011,Bahrain
+807,2011,Bangladesh
+808,2011,Barbados
+809,2011,Belarus
+810,2011,Belgium
+811,2011,Belize
+812,2011,Benin
+813,2011,Bermuda
+814,2011,Bhutan
+815,2011,Bolivia
+816,2011,Bosnia and Herzegovina
+817,2011,Botswana
+818,2011,Brazil
+819,2011,British Virgin Islands
+820,2011,Brunei Darussalam
+821,2011,Bulgaria
+822,2011,Burkina Faso
+823,2011,Burundi
+824,2011,Cabo Verde
+825,2011,Cambodia
+826,2011,Cameroon
+827,2011,Canada
+828,2011,Cayman Islands
+829,2011,Central African Republic
+830,2011,Chad
+831,2011,Channel Islands
+832,2011,Chile
+833,2011,China
+834,2011,Colombia
+835,2011,Comoros
+836,2011,"Congo, Dem. Rep."
+837,2011,"Congo, Rep."
+838,2011,Costa Rica
+839,2011,Cote d'Ivoire
+840,2011,Croatia
+841,2011,Cuba
+842,2011,Curacao
+843,2011,Cyprus
+844,2011,Czech Republic
+845,2011,Denmark
+846,2011,Djibouti
+847,2011,Dominica
+848,2011,Dominican Republic
+849,2011,Ecuador
+850,2011,"Egypt, Arab Rep."
+851,2011,El Salvador
+852,2011,Equatorial Guinea
+853,2011,Eritrea
+854,2011,Estonia
+855,2011,Eswatini
+856,2011,Ethiopia
+857,2011,Faroe Islands
+858,2011,Fiji
+859,2011,Finland
+860,2011,France
+861,2011,French Polynesia
+862,2011,Gabon
+863,2011,"Gambia, The"
+864,2011,Georgia
+865,2011,Germany
+866,2011,Ghana
+867,2011,Gibraltar
+868,2011,Greece
+869,2011,Greenland
+870,2011,Grenada
+871,2011,Guam
+872,2011,Guatemala
+873,2011,Guinea
+874,2011,Guinea-Bissau
+875,2011,Guyana
+876,2011,Haiti
+877,2011,Honduras
+878,2011,"Hong Kong SAR, China"
+879,2011,Hungary
+880,2011,Iceland
+881,2011,India
+882,2011,Indonesia
+883,2011,"Iran, Islamic Rep."
+884,2011,Iraq
+885,2011,Ireland
+886,2011,Isle of Man
+887,2011,Israel
+888,2011,Italy
+889,2011,Jamaica
+890,2011,Japan
+891,2011,Jordan
+892,2011,Kazakhstan
+893,2011,Kenya
+894,2011,Kiribati
+895,2011,"Korea, Dem. People’s Rep."
+896,2011,"Korea, Rep."
+897,2011,Kosovo
+898,2011,Kuwait
+899,2011,Kyrgyz Republic
+900,2011,Lao PDR
+901,2011,Latvia
+902,2011,Lebanon
+903,2011,Lesotho
+904,2011,Liberia
+905,2011,Libya
+906,2011,Liechtenstein
+907,2011,Lithuania
+908,2011,Luxembourg
+909,2011,"Macao SAR, China"
+910,2011,Madagascar
+911,2011,Malawi
+912,2011,Malaysia
+913,2011,Maldives
+914,2011,Mali
+915,2011,Malta
+916,2011,Marshall Islands
+917,2011,Mauritania
+918,2011,Mauritius
+919,2011,Mexico
+920,2011,"Micronesia, Fed. Sts."
+921,2011,Moldova
+922,2011,Monaco
+923,2011,Mongolia
+924,2011,Montenegro
+925,2011,Morocco
+926,2011,Mozambique
+927,2011,Myanmar
+928,2011,Namibia
+929,2011,Nauru
+930,2011,Nepal
+931,2011,Netherlands
+932,2011,New Caledonia
+933,2011,New Zealand
+934,2011,Nicaragua
+935,2011,Niger
+936,2011,Nigeria
+937,2011,North Macedonia
+938,2011,Northern Mariana Islands
+939,2011,Norway
+940,2011,Oman
+941,2011,Pakistan
+942,2011,Palau
+943,2011,Panama
+944,2011,Papua New Guinea
+945,2011,Paraguay
+946,2011,Peru
+947,2011,Philippines
+948,2011,Poland
+949,2011,Portugal
+950,2011,Puerto Rico
+951,2011,Qatar
+952,2011,Romania
+953,2011,Russian Federation
+954,2011,Rwanda
+955,2011,Samoa
+956,2011,San Marino
+957,2011,Sao Tome and Principe
+958,2011,Saudi Arabia
+959,2011,Senegal
+960,2011,Serbia
+961,2011,Seychelles
+962,2011,Sierra Leone
+963,2011,Singapore
+964,2011,Sint Maarten (Dutch part)
+965,2011,Slovak Republic
+966,2011,Slovenia
+967,2011,Solomon Islands
+968,2011,Somalia
+969,2011,South Africa
+970,2011,South Sudan
+971,2011,Spain
+972,2011,Sri Lanka
+973,2011,St. Kitts and Nevis
+974,2011,St. Lucia
+975,2011,St. Martin (French part)
+976,2011,St. Vincent and the Grenadines
+977,2011,Sudan
+978,2011,Suriname
+979,2011,Sweden
+980,2011,Switzerland
+981,2011,Syrian Arab Republic
+982,2011,Tajikistan
+983,2011,Tanzania
+984,2011,Thailand
+985,2011,Timor-Leste
+986,2011,Togo
+987,2011,Tonga
+988,2011,Trinidad and Tobago
+989,2011,Tunisia
+990,2011,Turkey
+991,2011,Turkmenistan
+992,2011,Turks and Caicos Islands
+993,2011,Tuvalu
+994,2011,Uganda
+995,2011,Ukraine
+996,2011,United Arab Emirates
+997,2011,United Kingdom
+998,2011,United States
+999,2011,Uruguay
+1000,2011,Uzbekistan
+1001,2011,Vanuatu
+1002,2011,"Venezuela, RB"
+1003,2011,Vietnam
+1004,2011,Virgin Islands (U.S.)
+1005,2011,West Bank and Gaza
+1006,2011,"Yemen, Rep."
+1007,2011,Zambia
+1008,2011,Zimbabwe
+1009,2011,Arab World
+1010,2011,Caribbean small states
+1011,2011,Central Europe and the Baltics
+1012,2011,Early-demographic dividend
+1013,2011,East Asia & Pacific
+1014,2011,East Asia & Pacific (excluding high income)
+1015,2011,East Asia & Pacific (IDA & IBRD countries)
+1016,2011,Euro area
+1017,2011,Europe & Central Asia
+1018,2011,Europe & Central Asia (excluding high income)
+1019,2011,Europe & Central Asia (IDA & IBRD countries)
+1020,2011,European Union
+1021,2011,Fragile and conflict affected situations
+1022,2011,Heavily indebted poor countries (HIPC)
+1023,2011,High income
+1024,2011,IBRD only
+1025,2011,IDA & IBRD total
+1026,2011,IDA blend
+1027,2011,IDA only
+1028,2011,IDA total
+1029,2011,Late-demographic dividend
+1030,2011,Latin America & Caribbean
+1031,2011,Latin America & Caribbean (excluding high income)
+1032,2011,Latin America & the Caribbean (IDA & IBRD countries)
+1033,2011,Least developed countries: UN classification
+1034,2011,Low & middle income
+1035,2011,Low income
+1036,2011,Lower middle income
+1037,2011,Middle East & North Africa
+1038,2011,Middle East & North Africa (excluding high income)
+1039,2011,Middle East & North Africa (IDA & IBRD countries)
+1040,2011,Middle income
+1041,2011,North America
+1042,2011,Not classified
+1043,2011,OECD members
+1044,2011,Other small states
+1045,2011,Pacific island small states
+1046,2011,Post-demographic dividend
+1047,2011,Pre-demographic dividend
+1048,2011,Small states
+1049,2011,South Asia
+1050,2011,South Asia (IDA & IBRD)
+1051,2011,Sub-Saharan Africa
+1052,2011,Sub-Saharan Africa (excluding high income)
+1053,2011,Sub-Saharan Africa (IDA & IBRD countries)
+1054,2011,Upper middle income
+1055,2011,World
+1056,2012,Afghanistan
+1057,2012,Albania
+1058,2012,Algeria
+1059,2012,American Samoa
+1060,2012,Andorra
+1061,2012,Angola
+1062,2012,Antigua and Barbuda
+1063,2012,Argentina
+1064,2012,Armenia
+1065,2012,Aruba
+1066,2012,Australia
+1067,2012,Austria
+1068,2012,Azerbaijan
+1069,2012,"Bahamas, The"
+1070,2012,Bahrain
+1071,2012,Bangladesh
+1072,2012,Barbados
+1073,2012,Belarus
+1074,2012,Belgium
+1075,2012,Belize
+1076,2012,Benin
+1077,2012,Bermuda
+1078,2012,Bhutan
+1079,2012,Bolivia
+1080,2012,Bosnia and Herzegovina
+1081,2012,Botswana
+1082,2012,Brazil
+1083,2012,British Virgin Islands
+1084,2012,Brunei Darussalam
+1085,2012,Bulgaria
+1086,2012,Burkina Faso
+1087,2012,Burundi
+1088,2012,Cabo Verde
+1089,2012,Cambodia
+1090,2012,Cameroon
+1091,2012,Canada
+1092,2012,Cayman Islands
+1093,2012,Central African Republic
+1094,2012,Chad
+1095,2012,Channel Islands
+1096,2012,Chile
+1097,2012,China
+1098,2012,Colombia
+1099,2012,Comoros
+1100,2012,"Congo, Dem. Rep."
+1101,2012,"Congo, Rep."
+1102,2012,Costa Rica
+1103,2012,Cote d'Ivoire
+1104,2012,Croatia
+1105,2012,Cuba
+1106,2012,Curacao
+1107,2012,Cyprus
+1108,2012,Czech Republic
+1109,2012,Denmark
+1110,2012,Djibouti
+1111,2012,Dominica
+1112,2012,Dominican Republic
+1113,2012,Ecuador
+1114,2012,"Egypt, Arab Rep."
+1115,2012,El Salvador
+1116,2012,Equatorial Guinea
+1117,2012,Eritrea
+1118,2012,Estonia
+1119,2012,Eswatini
+1120,2012,Ethiopia
+1121,2012,Faroe Islands
+1122,2012,Fiji
+1123,2012,Finland
+1124,2012,France
+1125,2012,French Polynesia
+1126,2012,Gabon
+1127,2012,"Gambia, The"
+1128,2012,Georgia
+1129,2012,Germany
+1130,2012,Ghana
+1131,2012,Gibraltar
+1132,2012,Greece
+1133,2012,Greenland
+1134,2012,Grenada
+1135,2012,Guam
+1136,2012,Guatemala
+1137,2012,Guinea
+1138,2012,Guinea-Bissau
+1139,2012,Guyana
+1140,2012,Haiti
+1141,2012,Honduras
+1142,2012,"Hong Kong SAR, China"
+1143,2012,Hungary
+1144,2012,Iceland
+1145,2012,India
+1146,2012,Indonesia
+1147,2012,"Iran, Islamic Rep."
+1148,2012,Iraq
+1149,2012,Ireland
+1150,2012,Isle of Man
+1151,2012,Israel
+1152,2012,Italy
+1153,2012,Jamaica
+1154,2012,Japan
+1155,2012,Jordan
+1156,2012,Kazakhstan
+1157,2012,Kenya
+1158,2012,Kiribati
+1159,2012,"Korea, Dem. People’s Rep."
+1160,2012,"Korea, Rep."
+1161,2012,Kosovo
+1162,2012,Kuwait
+1163,2012,Kyrgyz Republic
+1164,2012,Lao PDR
+1165,2012,Latvia
+1166,2012,Lebanon
+1167,2012,Lesotho
+1168,2012,Liberia
+1169,2012,Libya
+1170,2012,Liechtenstein
+1171,2012,Lithuania
+1172,2012,Luxembourg
+1173,2012,"Macao SAR, China"
+1174,2012,Madagascar
+1175,2012,Malawi
+1176,2012,Malaysia
+1177,2012,Maldives
+1178,2012,Mali
+1179,2012,Malta
+1180,2012,Marshall Islands
+1181,2012,Mauritania
+1182,2012,Mauritius
+1183,2012,Mexico
+1184,2012,"Micronesia, Fed. Sts."
+1185,2012,Moldova
+1186,2012,Monaco
+1187,2012,Mongolia
+1188,2012,Montenegro
+1189,2012,Morocco
+1190,2012,Mozambique
+1191,2012,Myanmar
+1192,2012,Namibia
+1193,2012,Nauru
+1194,2012,Nepal
+1195,2012,Netherlands
+1196,2012,New Caledonia
+1197,2012,New Zealand
+1198,2012,Nicaragua
+1199,2012,Niger
+1200,2012,Nigeria
+1201,2012,North Macedonia
+1202,2012,Northern Mariana Islands
+1203,2012,Norway
+1204,2012,Oman
+1205,2012,Pakistan
+1206,2012,Palau
+1207,2012,Panama
+1208,2012,Papua New Guinea
+1209,2012,Paraguay
+1210,2012,Peru
+1211,2012,Philippines
+1212,2012,Poland
+1213,2012,Portugal
+1214,2012,Puerto Rico
+1215,2012,Qatar
+1216,2012,Romania
+1217,2012,Russian Federation
+1218,2012,Rwanda
+1219,2012,Samoa
+1220,2012,San Marino
+1221,2012,Sao Tome and Principe
+1222,2012,Saudi Arabia
+1223,2012,Senegal
+1224,2012,Serbia
+1225,2012,Seychelles
+1226,2012,Sierra Leone
+1227,2012,Singapore
+1228,2012,Sint Maarten (Dutch part)
+1229,2012,Slovak Republic
+1230,2012,Slovenia
+1231,2012,Solomon Islands
+1232,2012,Somalia
+1233,2012,South Africa
+1234,2012,South Sudan
+1235,2012,Spain
+1236,2012,Sri Lanka
+1237,2012,St. Kitts and Nevis
+1238,2012,St. Lucia
+1239,2012,St. Martin (French part)
+1240,2012,St. Vincent and the Grenadines
+1241,2012,Sudan
+1242,2012,Suriname
+1243,2012,Sweden
+1244,2012,Switzerland
+1245,2012,Syrian Arab Republic
+1246,2012,Tajikistan
+1247,2012,Tanzania
+1248,2012,Thailand
+1249,2012,Timor-Leste
+1250,2012,Togo
+1251,2012,Tonga
+1252,2012,Trinidad and Tobago
+1253,2012,Tunisia
+1254,2012,Turkey
+1255,2012,Turkmenistan
+1256,2012,Turks and Caicos Islands
+1257,2012,Tuvalu
+1258,2012,Uganda
+1259,2012,Ukraine
+1260,2012,United Arab Emirates
+1261,2012,United Kingdom
+1262,2012,United States
+1263,2012,Uruguay
+1264,2012,Uzbekistan
+1265,2012,Vanuatu
+1266,2012,"Venezuela, RB"
+1267,2012,Vietnam
+1268,2012,Virgin Islands (U.S.)
+1269,2012,West Bank and Gaza
+1270,2012,"Yemen, Rep."
+1271,2012,Zambia
+1272,2012,Zimbabwe
+1273,2012,Arab World
+1274,2012,Caribbean small states
+1275,2012,Central Europe and the Baltics
+1276,2012,Early-demographic dividend
+1277,2012,East Asia & Pacific
+1278,2012,East Asia & Pacific (excluding high income)
+1279,2012,East Asia & Pacific (IDA & IBRD countries)
+1280,2012,Euro area
+1281,2012,Europe & Central Asia
+1282,2012,Europe & Central Asia (excluding high income)
+1283,2012,Europe & Central Asia (IDA & IBRD countries)
+1284,2012,European Union
+1285,2012,Fragile and conflict affected situations
+1286,2012,Heavily indebted poor countries (HIPC)
+1287,2012,High income
+1288,2012,IBRD only
+1289,2012,IDA & IBRD total
+1290,2012,IDA blend
+1291,2012,IDA only
+1292,2012,IDA total
+1293,2012,Late-demographic dividend
+1294,2012,Latin America & Caribbean
+1295,2012,Latin America & Caribbean (excluding high income)
+1296,2012,Latin America & the Caribbean (IDA & IBRD countries)
+1297,2012,Least developed countries: UN classification
+1298,2012,Low & middle income
+1299,2012,Low income
+1300,2012,Lower middle income
+1301,2012,Middle East & North Africa
+1302,2012,Middle East & North Africa (excluding high income)
+1303,2012,Middle East & North Africa (IDA & IBRD countries)
+1304,2012,Middle income
+1305,2012,North America
+1306,2012,Not classified
+1307,2012,OECD members
+1308,2012,Other small states
+1309,2012,Pacific island small states
+1310,2012,Post-demographic dividend
+1311,2012,Pre-demographic dividend
+1312,2012,Small states
+1313,2012,South Asia
+1314,2012,South Asia (IDA & IBRD)
+1315,2012,Sub-Saharan Africa
+1316,2012,Sub-Saharan Africa (excluding high income)
+1317,2012,Sub-Saharan Africa (IDA & IBRD countries)
+1318,2012,Upper middle income
+1319,2012,World
+1320,2013,Afghanistan
+1321,2013,Albania
+1322,2013,Algeria
+1323,2013,American Samoa
+1324,2013,Andorra
+1325,2013,Angola
+1326,2013,Antigua and Barbuda
+1327,2013,Argentina
+1328,2013,Armenia
+1329,2013,Aruba
+1330,2013,Australia
+1331,2013,Austria
+1332,2013,Azerbaijan
+1333,2013,"Bahamas, The"
+1334,2013,Bahrain
+1335,2013,Bangladesh
+1336,2013,Barbados
+1337,2013,Belarus
+1338,2013,Belgium
+1339,2013,Belize
+1340,2013,Benin
+1341,2013,Bermuda
+1342,2013,Bhutan
+1343,2013,Bolivia
+1344,2013,Bosnia and Herzegovina
+1345,2013,Botswana
+1346,2013,Brazil
+1347,2013,British Virgin Islands
+1348,2013,Brunei Darussalam
+1349,2013,Bulgaria
+1350,2013,Burkina Faso
+1351,2013,Burundi
+1352,2013,Cabo Verde
+1353,2013,Cambodia
+1354,2013,Cameroon
+1355,2013,Canada
+1356,2013,Cayman Islands
+1357,2013,Central African Republic
+1358,2013,Chad
+1359,2013,Channel Islands
+1360,2013,Chile
+1361,2013,China
+1362,2013,Colombia
+1363,2013,Comoros
+1364,2013,"Congo, Dem. Rep."
+1365,2013,"Congo, Rep."
+1366,2013,Costa Rica
+1367,2013,Cote d'Ivoire
+1368,2013,Croatia
+1369,2013,Cuba
+1370,2013,Curacao
+1371,2013,Cyprus
+1372,2013,Czech Republic
+1373,2013,Denmark
+1374,2013,Djibouti
+1375,2013,Dominica
+1376,2013,Dominican Republic
+1377,2013,Ecuador
+1378,2013,"Egypt, Arab Rep."
+1379,2013,El Salvador
+1380,2013,Equatorial Guinea
+1381,2013,Eritrea
+1382,2013,Estonia
+1383,2013,Eswatini
+1384,2013,Ethiopia
+1385,2013,Faroe Islands
+1386,2013,Fiji
+1387,2013,Finland
+1388,2013,France
+1389,2013,French Polynesia
+1390,2013,Gabon
+1391,2013,"Gambia, The"
+1392,2013,Georgia
+1393,2013,Germany
+1394,2013,Ghana
+1395,2013,Gibraltar
+1396,2013,Greece
+1397,2013,Greenland
+1398,2013,Grenada
+1399,2013,Guam
+1400,2013,Guatemala
+1401,2013,Guinea
+1402,2013,Guinea-Bissau
+1403,2013,Guyana
+1404,2013,Haiti
+1405,2013,Honduras
+1406,2013,"Hong Kong SAR, China"
+1407,2013,Hungary
+1408,2013,Iceland
+1409,2013,India
+1410,2013,Indonesia
+1411,2013,"Iran, Islamic Rep."
+1412,2013,Iraq
+1413,2013,Ireland
+1414,2013,Isle of Man
+1415,2013,Israel
+1416,2013,Italy
+1417,2013,Jamaica
+1418,2013,Japan
+1419,2013,Jordan
+1420,2013,Kazakhstan
+1421,2013,Kenya
+1422,2013,Kiribati
+1423,2013,"Korea, Dem. People’s Rep."
+1424,2013,"Korea, Rep."
+1425,2013,Kosovo
+1426,2013,Kuwait
+1427,2013,Kyrgyz Republic
+1428,2013,Lao PDR
+1429,2013,Latvia
+1430,2013,Lebanon
+1431,2013,Lesotho
+1432,2013,Liberia
+1433,2013,Libya
+1434,2013,Liechtenstein
+1435,2013,Lithuania
+1436,2013,Luxembourg
+1437,2013,"Macao SAR, China"
+1438,2013,Madagascar
+1439,2013,Malawi
+1440,2013,Malaysia
+1441,2013,Maldives
+1442,2013,Mali
+1443,2013,Malta
+1444,2013,Marshall Islands
+1445,2013,Mauritania
+1446,2013,Mauritius
+1447,2013,Mexico
+1448,2013,"Micronesia, Fed. Sts."
+1449,2013,Moldova
+1450,2013,Monaco
+1451,2013,Mongolia
+1452,2013,Montenegro
+1453,2013,Morocco
+1454,2013,Mozambique
+1455,2013,Myanmar
+1456,2013,Namibia
+1457,2013,Nauru
+1458,2013,Nepal
+1459,2013,Netherlands
+1460,2013,New Caledonia
+1461,2013,New Zealand
+1462,2013,Nicaragua
+1463,2013,Niger
+1464,2013,Nigeria
+1465,2013,North Macedonia
+1466,2013,Northern Mariana Islands
+1467,2013,Norway
+1468,2013,Oman
+1469,2013,Pakistan
+1470,2013,Palau
+1471,2013,Panama
+1472,2013,Papua New Guinea
+1473,2013,Paraguay
+1474,2013,Peru
+1475,2013,Philippines
+1476,2013,Poland
+1477,2013,Portugal
+1478,2013,Puerto Rico
+1479,2013,Qatar
+1480,2013,Romania
+1481,2013,Russian Federation
+1482,2013,Rwanda
+1483,2013,Samoa
+1484,2013,San Marino
+1485,2013,Sao Tome and Principe
+1486,2013,Saudi Arabia
+1487,2013,Senegal
+1488,2013,Serbia
+1489,2013,Seychelles
+1490,2013,Sierra Leone
+1491,2013,Singapore
+1492,2013,Sint Maarten (Dutch part)
+1493,2013,Slovak Republic
+1494,2013,Slovenia
+1495,2013,Solomon Islands
+1496,2013,Somalia
+1497,2013,South Africa
+1498,2013,South Sudan
+1499,2013,Spain
+1500,2013,Sri Lanka
+1501,2013,St. Kitts and Nevis
+1502,2013,St. Lucia
+1503,2013,St. Martin (French part)
+1504,2013,St. Vincent and the Grenadines
+1505,2013,Sudan
+1506,2013,Suriname
+1507,2013,Sweden
+1508,2013,Switzerland
+1509,2013,Syrian Arab Republic
+1510,2013,Tajikistan
+1511,2013,Tanzania
+1512,2013,Thailand
+1513,2013,Timor-Leste
+1514,2013,Togo
+1515,2013,Tonga
+1516,2013,Trinidad and Tobago
+1517,2013,Tunisia
+1518,2013,Turkey
+1519,2013,Turkmenistan
+1520,2013,Turks and Caicos Islands
+1521,2013,Tuvalu
+1522,2013,Uganda
+1523,2013,Ukraine
+1524,2013,United Arab Emirates
+1525,2013,United Kingdom
+1526,2013,United States
+1527,2013,Uruguay
+1528,2013,Uzbekistan
+1529,2013,Vanuatu
+1530,2013,"Venezuela, RB"
+1531,2013,Vietnam
+1532,2013,Virgin Islands (U.S.)
+1533,2013,West Bank and Gaza
+1534,2013,"Yemen, Rep."
+1535,2013,Zambia
+1536,2013,Zimbabwe
+1537,2013,Arab World
+1538,2013,Caribbean small states
+1539,2013,Central Europe and the Baltics
+1540,2013,Early-demographic dividend
+1541,2013,East Asia & Pacific
+1542,2013,East Asia & Pacific (excluding high income)
+1543,2013,East Asia & Pacific (IDA & IBRD countries)
+1544,2013,Euro area
+1545,2013,Europe & Central Asia
+1546,2013,Europe & Central Asia (excluding high income)
+1547,2013,Europe & Central Asia (IDA & IBRD countries)
+1548,2013,European Union
+1549,2013,Fragile and conflict affected situations
+1550,2013,Heavily indebted poor countries (HIPC)
+1551,2013,High income
+1552,2013,IBRD only
+1553,2013,IDA & IBRD total
+1554,2013,IDA blend
+1555,2013,IDA only
+1556,2013,IDA total
+1557,2013,Late-demographic dividend
+1558,2013,Latin America & Caribbean
+1559,2013,Latin America & Caribbean (excluding high income)
+1560,2013,Latin America & the Caribbean (IDA & IBRD countries)
+1561,2013,Least developed countries: UN classification
+1562,2013,Low & middle income
+1563,2013,Low income
+1564,2013,Lower middle income
+1565,2013,Middle East & North Africa
+1566,2013,Middle East & North Africa (excluding high income)
+1567,2013,Middle East & North Africa (IDA & IBRD countries)
+1568,2013,Middle income
+1569,2013,North America
+1570,2013,Not classified
+1571,2013,OECD members
+1572,2013,Other small states
+1573,2013,Pacific island small states
+1574,2013,Post-demographic dividend
+1575,2013,Pre-demographic dividend
+1576,2013,Small states
+1577,2013,South Asia
+1578,2013,South Asia (IDA & IBRD)
+1579,2013,Sub-Saharan Africa
+1580,2013,Sub-Saharan Africa (excluding high income)
+1581,2013,Sub-Saharan Africa (IDA & IBRD countries)
+1582,2013,Upper middle income
+1583,2013,World
+1584,2014,Afghanistan
+1585,2014,Albania
+1586,2014,Algeria
+1587,2014,American Samoa
+1588,2014,Andorra
+1589,2014,Angola
+1590,2014,Antigua and Barbuda
+1591,2014,Argentina
+1592,2014,Armenia
+1593,2014,Aruba
+1594,2014,Australia
+1595,2014,Austria
+1596,2014,Azerbaijan
+1597,2014,"Bahamas, The"
+1598,2014,Bahrain
+1599,2014,Bangladesh
+1600,2014,Barbados
+1601,2014,Belarus
+1602,2014,Belgium
+1603,2014,Belize
+1604,2014,Benin
+1605,2014,Bermuda
+1606,2014,Bhutan
+1607,2014,Bolivia
+1608,2014,Bosnia and Herzegovina
+1609,2014,Botswana
+1610,2014,Brazil
+1611,2014,British Virgin Islands
+1612,2014,Brunei Darussalam
+1613,2014,Bulgaria
+1614,2014,Burkina Faso
+1615,2014,Burundi
+1616,2014,Cabo Verde
+1617,2014,Cambodia
+1618,2014,Cameroon
+1619,2014,Canada
+1620,2014,Cayman Islands
+1621,2014,Central African Republic
+1622,2014,Chad
+1623,2014,Channel Islands
+1624,2014,Chile
+1625,2014,China
+1626,2014,Colombia
+1627,2014,Comoros
+1628,2014,"Congo, Dem. Rep."
+1629,2014,"Congo, Rep."
+1630,2014,Costa Rica
+1631,2014,Cote d'Ivoire
+1632,2014,Croatia
+1633,2014,Cuba
+1634,2014,Curacao
+1635,2014,Cyprus
+1636,2014,Czech Republic
+1637,2014,Denmark
+1638,2014,Djibouti
+1639,2014,Dominica
+1640,2014,Dominican Republic
+1641,2014,Ecuador
+1642,2014,"Egypt, Arab Rep."
+1643,2014,El Salvador
+1644,2014,Equatorial Guinea
+1645,2014,Eritrea
+1646,2014,Estonia
+1647,2014,Eswatini
+1648,2014,Ethiopia
+1649,2014,Faroe Islands
+1650,2014,Fiji
+1651,2014,Finland
+1652,2014,France
+1653,2014,French Polynesia
+1654,2014,Gabon
+1655,2014,"Gambia, The"
+1656,2014,Georgia
+1657,2014,Germany
+1658,2014,Ghana
+1659,2014,Gibraltar
+1660,2014,Greece
+1661,2014,Greenland
+1662,2014,Grenada
+1663,2014,Guam
+1664,2014,Guatemala
+1665,2014,Guinea
+1666,2014,Guinea-Bissau
+1667,2014,Guyana
+1668,2014,Haiti
+1669,2014,Honduras
+1670,2014,"Hong Kong SAR, China"
+1671,2014,Hungary
+1672,2014,Iceland
+1673,2014,India
+1674,2014,Indonesia
+1675,2014,"Iran, Islamic Rep."
+1676,2014,Iraq
+1677,2014,Ireland
+1678,2014,Isle of Man
+1679,2014,Israel
+1680,2014,Italy
+1681,2014,Jamaica
+1682,2014,Japan
+1683,2014,Jordan
+1684,2014,Kazakhstan
+1685,2014,Kenya
+1686,2014,Kiribati
+1687,2014,"Korea, Dem. People’s Rep."
+1688,2014,"Korea, Rep."
+1689,2014,Kosovo
+1690,2014,Kuwait
+1691,2014,Kyrgyz Republic
+1692,2014,Lao PDR
+1693,2014,Latvia
+1694,2014,Lebanon
+1695,2014,Lesotho
+1696,2014,Liberia
+1697,2014,Libya
+1698,2014,Liechtenstein
+1699,2014,Lithuania
+1700,2014,Luxembourg
+1701,2014,"Macao SAR, China"
+1702,2014,Madagascar
+1703,2014,Malawi
+1704,2014,Malaysia
+1705,2014,Maldives
+1706,2014,Mali
+1707,2014,Malta
+1708,2014,Marshall Islands
+1709,2014,Mauritania
+1710,2014,Mauritius
+1711,2014,Mexico
+1712,2014,"Micronesia, Fed. Sts."
+1713,2014,Moldova
+1714,2014,Monaco
+1715,2014,Mongolia
+1716,2014,Montenegro
+1717,2014,Morocco
+1718,2014,Mozambique
+1719,2014,Myanmar
+1720,2014,Namibia
+1721,2014,Nauru
+1722,2014,Nepal
+1723,2014,Netherlands
+1724,2014,New Caledonia
+1725,2014,New Zealand
+1726,2014,Nicaragua
+1727,2014,Niger
+1728,2014,Nigeria
+1729,2014,North Macedonia
+1730,2014,Northern Mariana Islands
+1731,2014,Norway
+1732,2014,Oman
+1733,2014,Pakistan
+1734,2014,Palau
+1735,2014,Panama
+1736,2014,Papua New Guinea
+1737,2014,Paraguay
+1738,2014,Peru
+1739,2014,Philippines
+1740,2014,Poland
+1741,2014,Portugal
+1742,2014,Puerto Rico
+1743,2014,Qatar
+1744,2014,Romania
+1745,2014,Russian Federation
+1746,2014,Rwanda
+1747,2014,Samoa
+1748,2014,San Marino
+1749,2014,Sao Tome and Principe
+1750,2014,Saudi Arabia
+1751,2014,Senegal
+1752,2014,Serbia
+1753,2014,Seychelles
+1754,2014,Sierra Leone
+1755,2014,Singapore
+1756,2014,Sint Maarten (Dutch part)
+1757,2014,Slovak Republic
+1758,2014,Slovenia
+1759,2014,Solomon Islands
+1760,2014,Somalia
+1761,2014,South Africa
+1762,2014,South Sudan
+1763,2014,Spain
+1764,2014,Sri Lanka
+1765,2014,St. Kitts and Nevis
+1766,2014,St. Lucia
+1767,2014,St. Martin (French part)
+1768,2014,St. Vincent and the Grenadines
+1769,2014,Sudan
+1770,2014,Suriname
+1771,2014,Sweden
+1772,2014,Switzerland
+1773,2014,Syrian Arab Republic
+1774,2014,Tajikistan
+1775,2014,Tanzania
+1776,2014,Thailand
+1777,2014,Timor-Leste
+1778,2014,Togo
+1779,2014,Tonga
+1780,2014,Trinidad and Tobago
+1781,2014,Tunisia
+1782,2014,Turkey
+1783,2014,Turkmenistan
+1784,2014,Turks and Caicos Islands
+1785,2014,Tuvalu
+1786,2014,Uganda
+1787,2014,Ukraine
+1788,2014,United Arab Emirates
+1789,2014,United Kingdom
+1790,2014,United States
+1791,2014,Uruguay
+1792,2014,Uzbekistan
+1793,2014,Vanuatu
+1794,2014,"Venezuela, RB"
+1795,2014,Vietnam
+1796,2014,Virgin Islands (U.S.)
+1797,2014,West Bank and Gaza
+1798,2014,"Yemen, Rep."
+1799,2014,Zambia
+1800,2014,Zimbabwe
+1801,2014,Arab World
+1802,2014,Caribbean small states
+1803,2014,Central Europe and the Baltics
+1804,2014,Early-demographic dividend
+1805,2014,East Asia & Pacific
+1806,2014,East Asia & Pacific (excluding high income)
+1807,2014,East Asia & Pacific (IDA & IBRD countries)
+1808,2014,Euro area
+1809,2014,Europe & Central Asia
+1810,2014,Europe & Central Asia (excluding high income)
+1811,2014,Europe & Central Asia (IDA & IBRD countries)
+1812,2014,European Union
+1813,2014,Fragile and conflict affected situations
+1814,2014,Heavily indebted poor countries (HIPC)
+1815,2014,High income
+1816,2014,IBRD only
+1817,2014,IDA & IBRD total
+1818,2014,IDA blend
+1819,2014,IDA only
+1820,2014,IDA total
+1821,2014,Late-demographic dividend
+1822,2014,Latin America & Caribbean
+1823,2014,Latin America & Caribbean (excluding high income)
+1824,2014,Latin America & the Caribbean (IDA & IBRD countries)
+1825,2014,Least developed countries: UN classification
+1826,2014,Low & middle income
+1827,2014,Low income
+1828,2014,Lower middle income
+1829,2014,Middle East & North Africa
+1830,2014,Middle East & North Africa (excluding high income)
+1831,2014,Middle East & North Africa (IDA & IBRD countries)
+1832,2014,Middle income
+1833,2014,North America
+1834,2014,Not classified
+1835,2014,OECD members
+1836,2014,Other small states
+1837,2014,Pacific island small states
+1838,2014,Post-demographic dividend
+1839,2014,Pre-demographic dividend
+1840,2014,Small states
+1841,2014,South Asia
+1842,2014,South Asia (IDA & IBRD)
+1843,2014,Sub-Saharan Africa
+1844,2014,Sub-Saharan Africa (excluding high income)
+1845,2014,Sub-Saharan Africa (IDA & IBRD countries)
+1846,2014,Upper middle income
+1847,2014,World
+1848,2015,Afghanistan
+1849,2015,Albania
+1850,2015,Algeria
+1851,2015,American Samoa
+1852,2015,Andorra
+1853,2015,Angola
+1854,2015,Antigua and Barbuda
+1855,2015,Argentina
+1856,2015,Armenia
+1857,2015,Aruba
+1858,2015,Australia
+1859,2015,Austria
+1860,2015,Azerbaijan
+1861,2015,"Bahamas, The"
+1862,2015,Bahrain
+1863,2015,Bangladesh
+1864,2015,Barbados
+1865,2015,Belarus
+1866,2015,Belgium
+1867,2015,Belize
+1868,2015,Benin
+1869,2015,Bermuda
+1870,2015,Bhutan
+1871,2015,Bolivia
+1872,2015,Bosnia and Herzegovina
+1873,2015,Botswana
+1874,2015,Brazil
+1875,2015,British Virgin Islands
+1876,2015,Brunei Darussalam
+1877,2015,Bulgaria
+1878,2015,Burkina Faso
+1879,2015,Burundi
+1880,2015,Cabo Verde
+1881,2015,Cambodia
+1882,2015,Cameroon
+1883,2015,Canada
+1884,2015,Cayman Islands
+1885,2015,Central African Republic
+1886,2015,Chad
+1887,2015,Channel Islands
+1888,2015,Chile
+1889,2015,China
+1890,2015,Colombia
+1891,2015,Comoros
+1892,2015,"Congo, Dem. Rep."
+1893,2015,"Congo, Rep."
+1894,2015,Costa Rica
+1895,2015,Cote d'Ivoire
+1896,2015,Croatia
+1897,2015,Cuba
+1898,2015,Curacao
+1899,2015,Cyprus
+1900,2015,Czech Republic
+1901,2015,Denmark
+1902,2015,Djibouti
+1903,2015,Dominica
+1904,2015,Dominican Republic
+1905,2015,Ecuador
+1906,2015,"Egypt, Arab Rep."
+1907,2015,El Salvador
+1908,2015,Equatorial Guinea
+1909,2015,Eritrea
+1910,2015,Estonia
+1911,2015,Eswatini
+1912,2015,Ethiopia
+1913,2015,Faroe Islands
+1914,2015,Fiji
+1915,2015,Finland
+1916,2015,France
+1917,2015,French Polynesia
+1918,2015,Gabon
+1919,2015,"Gambia, The"
+1920,2015,Georgia
+1921,2015,Germany
+1922,2015,Ghana
+1923,2015,Gibraltar
+1924,2015,Greece
+1925,2015,Greenland
+1926,2015,Grenada
+1927,2015,Guam
+1928,2015,Guatemala
+1929,2015,Guinea
+1930,2015,Guinea-Bissau
+1931,2015,Guyana
+1932,2015,Haiti
+1933,2015,Honduras
+1934,2015,"Hong Kong SAR, China"
+1935,2015,Hungary
+1936,2015,Iceland
+1937,2015,India
+1938,2015,Indonesia
+1939,2015,"Iran, Islamic Rep."
+1940,2015,Iraq
+1941,2015,Ireland
+1942,2015,Isle of Man
+1943,2015,Israel
+1944,2015,Italy
+1945,2015,Jamaica
+1946,2015,Japan
+1947,2015,Jordan
+1948,2015,Kazakhstan
+1949,2015,Kenya
+1950,2015,Kiribati
+1951,2015,"Korea, Dem. People’s Rep."
+1952,2015,"Korea, Rep."
+1953,2015,Kosovo
+1954,2015,Kuwait
+1955,2015,Kyrgyz Republic
+1956,2015,Lao PDR
+1957,2015,Latvia
+1958,2015,Lebanon
+1959,2015,Lesotho
+1960,2015,Liberia
+1961,2015,Libya
+1962,2015,Liechtenstein
+1963,2015,Lithuania
+1964,2015,Luxembourg
+1965,2015,"Macao SAR, China"
+1966,2015,Madagascar
+1967,2015,Malawi
+1968,2015,Malaysia
+1969,2015,Maldives
+1970,2015,Mali
+1971,2015,Malta
+1972,2015,Marshall Islands
+1973,2015,Mauritania
+1974,2015,Mauritius
+1975,2015,Mexico
+1976,2015,"Micronesia, Fed. Sts."
+1977,2015,Moldova
+1978,2015,Monaco
+1979,2015,Mongolia
+1980,2015,Montenegro
+1981,2015,Morocco
+1982,2015,Mozambique
+1983,2015,Myanmar
+1984,2015,Namibia
+1985,2015,Nauru
+1986,2015,Nepal
+1987,2015,Netherlands
+1988,2015,New Caledonia
+1989,2015,New Zealand
+1990,2015,Nicaragua
+1991,2015,Niger
+1992,2015,Nigeria
+1993,2015,North Macedonia
+1994,2015,Northern Mariana Islands
+1995,2015,Norway
+1996,2015,Oman
+1997,2015,Pakistan
+1998,2015,Palau
+1999,2015,Panama
+2000,2015,Papua New Guinea
+2001,2015,Paraguay
+2002,2015,Peru
+2003,2015,Philippines
+2004,2015,Poland
+2005,2015,Portugal
+2006,2015,Puerto Rico
+2007,2015,Qatar
+2008,2015,Romania
+2009,2015,Russian Federation
+2010,2015,Rwanda
+2011,2015,Samoa
+2012,2015,San Marino
+2013,2015,Sao Tome and Principe
+2014,2015,Saudi Arabia
+2015,2015,Senegal
+2016,2015,Serbia
+2017,2015,Seychelles
+2018,2015,Sierra Leone
+2019,2015,Singapore
+2020,2015,Sint Maarten (Dutch part)
+2021,2015,Slovak Republic
+2022,2015,Slovenia
+2023,2015,Solomon Islands
+2024,2015,Somalia
+2025,2015,South Africa
+2026,2015,South Sudan
+2027,2015,Spain
+2028,2015,Sri Lanka
+2029,2015,St. Kitts and Nevis
+2030,2015,St. Lucia
+2031,2015,St. Martin (French part)
+2032,2015,St. Vincent and the Grenadines
+2033,2015,Sudan
+2034,2015,Suriname
+2035,2015,Sweden
+2036,2015,Switzerland
+2037,2015,Syrian Arab Republic
+2038,2015,Tajikistan
+2039,2015,Tanzania
+2040,2015,Thailand
+2041,2015,Timor-Leste
+2042,2015,Togo
+2043,2015,Tonga
+2044,2015,Trinidad and Tobago
+2045,2015,Tunisia
+2046,2015,Turkey
+2047,2015,Turkmenistan
+2048,2015,Turks and Caicos Islands
+2049,2015,Tuvalu
+2050,2015,Uganda
+2051,2015,Ukraine
+2052,2015,United Arab Emirates
+2053,2015,United Kingdom
+2054,2015,United States
+2055,2015,Uruguay
+2056,2015,Uzbekistan
+2057,2015,Vanuatu
+2058,2015,"Venezuela, RB"
+2059,2015,Vietnam
+2060,2015,Virgin Islands (U.S.)
+2061,2015,West Bank and Gaza
+2062,2015,"Yemen, Rep."
+2063,2015,Zambia
+2064,2015,Zimbabwe
+2065,2015,Arab World
+2066,2015,Caribbean small states
+2067,2015,Central Europe and the Baltics
+2068,2015,Early-demographic dividend
+2069,2015,East Asia & Pacific
+2070,2015,East Asia & Pacific (excluding high income)
+2071,2015,East Asia & Pacific (IDA & IBRD countries)
+2072,2015,Euro area
+2073,2015,Europe & Central Asia
+2074,2015,Europe & Central Asia (excluding high income)
+2075,2015,Europe & Central Asia (IDA & IBRD countries)
+2076,2015,European Union
+2077,2015,Fragile and conflict affected situations
+2078,2015,Heavily indebted poor countries (HIPC)
+2079,2015,High income
+2080,2015,IBRD only
+2081,2015,IDA & IBRD total
+2082,2015,IDA blend
+2083,2015,IDA only
+2084,2015,IDA total
+2085,2015,Late-demographic dividend
+2086,2015,Latin America & Caribbean
+2087,2015,Latin America & Caribbean (excluding high income)
+2088,2015,Latin America & the Caribbean (IDA & IBRD countries)
+2089,2015,Least developed countries: UN classification
+2090,2015,Low & middle income
+2091,2015,Low income
+2092,2015,Lower middle income
+2093,2015,Middle East & North Africa
+2094,2015,Middle East & North Africa (excluding high income)
+2095,2015,Middle East & North Africa (IDA & IBRD countries)
+2096,2015,Middle income
+2097,2015,North America
+2098,2015,Not classified
+2099,2015,OECD members
+2100,2015,Other small states
+2101,2015,Pacific island small states
+2102,2015,Post-demographic dividend
+2103,2015,Pre-demographic dividend
+2104,2015,Small states
+2105,2015,South Asia
+2106,2015,South Asia (IDA & IBRD)
+2107,2015,Sub-Saharan Africa
+2108,2015,Sub-Saharan Africa (excluding high income)
+2109,2015,Sub-Saharan Africa (IDA & IBRD countries)
+2110,2015,Upper middle income
+2111,2015,World
+2112,2016,Afghanistan
+2113,2016,Albania
+2114,2016,Algeria
+2115,2016,American Samoa
+2116,2016,Andorra
+2117,2016,Angola
+2118,2016,Antigua and Barbuda
+2119,2016,Argentina
+2120,2016,Armenia
+2121,2016,Aruba
+2122,2016,Australia
+2123,2016,Austria
+2124,2016,Azerbaijan
+2125,2016,"Bahamas, The"
+2126,2016,Bahrain
+2127,2016,Bangladesh
+2128,2016,Barbados
+2129,2016,Belarus
+2130,2016,Belgium
+2131,2016,Belize
+2132,2016,Benin
+2133,2016,Bermuda
+2134,2016,Bhutan
+2135,2016,Bolivia
+2136,2016,Bosnia and Herzegovina
+2137,2016,Botswana
+2138,2016,Brazil
+2139,2016,British Virgin Islands
+2140,2016,Brunei Darussalam
+2141,2016,Bulgaria
+2142,2016,Burkina Faso
+2143,2016,Burundi
+2144,2016,Cabo Verde
+2145,2016,Cambodia
+2146,2016,Cameroon
+2147,2016,Canada
+2148,2016,Cayman Islands
+2149,2016,Central African Republic
+2150,2016,Chad
+2151,2016,Channel Islands
+2152,2016,Chile
+2153,2016,China
+2154,2016,Colombia
+2155,2016,Comoros
+2156,2016,"Congo, Dem. Rep."
+2157,2016,"Congo, Rep."
+2158,2016,Costa Rica
+2159,2016,Cote d'Ivoire
+2160,2016,Croatia
+2161,2016,Cuba
+2162,2016,Curacao
+2163,2016,Cyprus
+2164,2016,Czech Republic
+2165,2016,Denmark
+2166,2016,Djibouti
+2167,2016,Dominica
+2168,2016,Dominican Republic
+2169,2016,Ecuador
+2170,2016,"Egypt, Arab Rep."
+2171,2016,El Salvador
+2172,2016,Equatorial Guinea
+2173,2016,Eritrea
+2174,2016,Estonia
+2175,2016,Eswatini
+2176,2016,Ethiopia
+2177,2016,Faroe Islands
+2178,2016,Fiji
+2179,2016,Finland
+2180,2016,France
+2181,2016,French Polynesia
+2182,2016,Gabon
+2183,2016,"Gambia, The"
+2184,2016,Georgia
+2185,2016,Germany
+2186,2016,Ghana
+2187,2016,Gibraltar
+2188,2016,Greece
+2189,2016,Greenland
+2190,2016,Grenada
+2191,2016,Guam
+2192,2016,Guatemala
+2193,2016,Guinea
+2194,2016,Guinea-Bissau
+2195,2016,Guyana
+2196,2016,Haiti
+2197,2016,Honduras
+2198,2016,"Hong Kong SAR, China"
+2199,2016,Hungary
+2200,2016,Iceland
+2201,2016,India
+2202,2016,Indonesia
+2203,2016,"Iran, Islamic Rep."
+2204,2016,Iraq
+2205,2016,Ireland
+2206,2016,Isle of Man
+2207,2016,Israel
+2208,2016,Italy
+2209,2016,Jamaica
+2210,2016,Japan
+2211,2016,Jordan
+2212,2016,Kazakhstan
+2213,2016,Kenya
+2214,2016,Kiribati
+2215,2016,"Korea, Dem. People’s Rep."
+2216,2016,"Korea, Rep."
+2217,2016,Kosovo
+2218,2016,Kuwait
+2219,2016,Kyrgyz Republic
+2220,2016,Lao PDR
+2221,2016,Latvia
+2222,2016,Lebanon
+2223,2016,Lesotho
+2224,2016,Liberia
+2225,2016,Libya
+2226,2016,Liechtenstein
+2227,2016,Lithuania
+2228,2016,Luxembourg
+2229,2016,"Macao SAR, China"
+2230,2016,Madagascar
+2231,2016,Malawi
+2232,2016,Malaysia
+2233,2016,Maldives
+2234,2016,Mali
+2235,2016,Malta
+2236,2016,Marshall Islands
+2237,2016,Mauritania
+2238,2016,Mauritius
+2239,2016,Mexico
+2240,2016,"Micronesia, Fed. Sts."
+2241,2016,Moldova
+2242,2016,Monaco
+2243,2016,Mongolia
+2244,2016,Montenegro
+2245,2016,Morocco
+2246,2016,Mozambique
+2247,2016,Myanmar
+2248,2016,Namibia
+2249,2016,Nauru
+2250,2016,Nepal
+2251,2016,Netherlands
+2252,2016,New Caledonia
+2253,2016,New Zealand
+2254,2016,Nicaragua
+2255,2016,Niger
+2256,2016,Nigeria
+2257,2016,North Macedonia
+2258,2016,Northern Mariana Islands
+2259,2016,Norway
+2260,2016,Oman
+2261,2016,Pakistan
+2262,2016,Palau
+2263,2016,Panama
+2264,2016,Papua New Guinea
+2265,2016,Paraguay
+2266,2016,Peru
+2267,2016,Philippines
+2268,2016,Poland
+2269,2016,Portugal
+2270,2016,Puerto Rico
+2271,2016,Qatar
+2272,2016,Romania
+2273,2016,Russian Federation
+2274,2016,Rwanda
+2275,2016,Samoa
+2276,2016,San Marino
+2277,2016,Sao Tome and Principe
+2278,2016,Saudi Arabia
+2279,2016,Senegal
+2280,2016,Serbia
+2281,2016,Seychelles
+2282,2016,Sierra Leone
+2283,2016,Singapore
+2284,2016,Sint Maarten (Dutch part)
+2285,2016,Slovak Republic
+2286,2016,Slovenia
+2287,2016,Solomon Islands
+2288,2016,Somalia
+2289,2016,South Africa
+2290,2016,South Sudan
+2291,2016,Spain
+2292,2016,Sri Lanka
+2293,2016,St. Kitts and Nevis
+2294,2016,St. Lucia
+2295,2016,St. Martin (French part)
+2296,2016,St. Vincent and the Grenadines
+2297,2016,Sudan
+2298,2016,Suriname
+2299,2016,Sweden
+2300,2016,Switzerland
+2301,2016,Syrian Arab Republic
+2302,2016,Tajikistan
+2303,2016,Tanzania
+2304,2016,Thailand
+2305,2016,Timor-Leste
+2306,2016,Togo
+2307,2016,Tonga
+2308,2016,Trinidad and Tobago
+2309,2016,Tunisia
+2310,2016,Turkey
+2311,2016,Turkmenistan
+2312,2016,Turks and Caicos Islands
+2313,2016,Tuvalu
+2314,2016,Uganda
+2315,2016,Ukraine
+2316,2016,United Arab Emirates
+2317,2016,United Kingdom
+2318,2016,United States
+2319,2016,Uruguay
+2320,2016,Uzbekistan
+2321,2016,Vanuatu
+2322,2016,"Venezuela, RB"
+2323,2016,Vietnam
+2324,2016,Virgin Islands (U.S.)
+2325,2016,West Bank and Gaza
+2326,2016,"Yemen, Rep."
+2327,2016,Zambia
+2328,2016,Zimbabwe
+2329,2016,Arab World
+2330,2016,Caribbean small states
+2331,2016,Central Europe and the Baltics
+2332,2016,Early-demographic dividend
+2333,2016,East Asia & Pacific
+2334,2016,East Asia & Pacific (excluding high income)
+2335,2016,East Asia & Pacific (IDA & IBRD countries)
+2336,2016,Euro area
+2337,2016,Europe & Central Asia
+2338,2016,Europe & Central Asia (excluding high income)
+2339,2016,Europe & Central Asia (IDA & IBRD countries)
+2340,2016,European Union
+2341,2016,Fragile and conflict affected situations
+2342,2016,Heavily indebted poor countries (HIPC)
+2343,2016,High income
+2344,2016,IBRD only
+2345,2016,IDA & IBRD total
+2346,2016,IDA blend
+2347,2016,IDA only
+2348,2016,IDA total
+2349,2016,Late-demographic dividend
+2350,2016,Latin America & Caribbean
+2351,2016,Latin America & Caribbean (excluding high income)
+2352,2016,Latin America & the Caribbean (IDA & IBRD countries)
+2353,2016,Least developed countries: UN classification
+2354,2016,Low & middle income
+2355,2016,Low income
+2356,2016,Lower middle income
+2357,2016,Middle East & North Africa
+2358,2016,Middle East & North Africa (excluding high income)
+2359,2016,Middle East & North Africa (IDA & IBRD countries)
+2360,2016,Middle income
+2361,2016,North America
+2362,2016,Not classified
+2363,2016,OECD members
+2364,2016,Other small states
+2365,2016,Pacific island small states
+2366,2016,Post-demographic dividend
+2367,2016,Pre-demographic dividend
+2368,2016,Small states
+2369,2016,South Asia
+2370,2016,South Asia (IDA & IBRD)
+2371,2016,Sub-Saharan Africa
+2372,2016,Sub-Saharan Africa (excluding high income)
+2373,2016,Sub-Saharan Africa (IDA & IBRD countries)
+2374,2016,Upper middle income
+2375,2016,World
+2376,2017,Afghanistan
+2377,2017,Albania
+2378,2017,Algeria
+2379,2017,American Samoa
+2380,2017,Andorra
+2381,2017,Angola
+2382,2017,Antigua and Barbuda
+2383,2017,Argentina
+2384,2017,Armenia
+2385,2017,Aruba
+2386,2017,Australia
+2387,2017,Austria
+2388,2017,Azerbaijan
+2389,2017,"Bahamas, The"
+2390,2017,Bahrain
+2391,2017,Bangladesh
+2392,2017,Barbados
+2393,2017,Belarus
+2394,2017,Belgium
+2395,2017,Belize
+2396,2017,Benin
+2397,2017,Bermuda
+2398,2017,Bhutan
+2399,2017,Bolivia
+2400,2017,Bosnia and Herzegovina
+2401,2017,Botswana
+2402,2017,Brazil
+2403,2017,British Virgin Islands
+2404,2017,Brunei Darussalam
+2405,2017,Bulgaria
+2406,2017,Burkina Faso
+2407,2017,Burundi
+2408,2017,Cabo Verde
+2409,2017,Cambodia
+2410,2017,Cameroon
+2411,2017,Canada
+2412,2017,Cayman Islands
+2413,2017,Central African Republic
+2414,2017,Chad
+2415,2017,Channel Islands
+2416,2017,Chile
+2417,2017,China
+2418,2017,Colombia
+2419,2017,Comoros
+2420,2017,"Congo, Dem. Rep."
+2421,2017,"Congo, Rep."
+2422,2017,Costa Rica
+2423,2017,Cote d'Ivoire
+2424,2017,Croatia
+2425,2017,Cuba
+2426,2017,Curacao
+2427,2017,Cyprus
+2428,2017,Czech Republic
+2429,2017,Denmark
+2430,2017,Djibouti
+2431,2017,Dominica
+2432,2017,Dominican Republic
+2433,2017,Ecuador
+2434,2017,"Egypt, Arab Rep."
+2435,2017,El Salvador
+2436,2017,Equatorial Guinea
+2437,2017,Eritrea
+2438,2017,Estonia
+2439,2017,Eswatini
+2440,2017,Ethiopia
+2441,2017,Faroe Islands
+2442,2017,Fiji
+2443,2017,Finland
+2444,2017,France
+2445,2017,French Polynesia
+2446,2017,Gabon
+2447,2017,"Gambia, The"
+2448,2017,Georgia
+2449,2017,Germany
+2450,2017,Ghana
+2451,2017,Gibraltar
+2452,2017,Greece
+2453,2017,Greenland
+2454,2017,Grenada
+2455,2017,Guam
+2456,2017,Guatemala
+2457,2017,Guinea
+2458,2017,Guinea-Bissau
+2459,2017,Guyana
+2460,2017,Haiti
+2461,2017,Honduras
+2462,2017,"Hong Kong SAR, China"
+2463,2017,Hungary
+2464,2017,Iceland
+2465,2017,India
+2466,2017,Indonesia
+2467,2017,"Iran, Islamic Rep."
+2468,2017,Iraq
+2469,2017,Ireland
+2470,2017,Isle of Man
+2471,2017,Israel
+2472,2017,Italy
+2473,2017,Jamaica
+2474,2017,Japan
+2475,2017,Jordan
+2476,2017,Kazakhstan
+2477,2017,Kenya
+2478,2017,Kiribati
+2479,2017,"Korea, Dem. People’s Rep."
+2480,2017,"Korea, Rep."
+2481,2017,Kosovo
+2482,2017,Kuwait
+2483,2017,Kyrgyz Republic
+2484,2017,Lao PDR
+2485,2017,Latvia
+2486,2017,Lebanon
+2487,2017,Lesotho
+2488,2017,Liberia
+2489,2017,Libya
+2490,2017,Liechtenstein
+2491,2017,Lithuania
+2492,2017,Luxembourg
+2493,2017,"Macao SAR, China"
+2494,2017,Madagascar
+2495,2017,Malawi
+2496,2017,Malaysia
+2497,2017,Maldives
+2498,2017,Mali
+2499,2017,Malta
+2500,2017,Marshall Islands
+2501,2017,Mauritania
+2502,2017,Mauritius
+2503,2017,Mexico
+2504,2017,"Micronesia, Fed. Sts."
+2505,2017,Moldova
+2506,2017,Monaco
+2507,2017,Mongolia
+2508,2017,Montenegro
+2509,2017,Morocco
+2510,2017,Mozambique
+2511,2017,Myanmar
+2512,2017,Namibia
+2513,2017,Nauru
+2514,2017,Nepal
+2515,2017,Netherlands
+2516,2017,New Caledonia
+2517,2017,New Zealand
+2518,2017,Nicaragua
+2519,2017,Niger
+2520,2017,Nigeria
+2521,2017,North Macedonia
+2522,2017,Northern Mariana Islands
+2523,2017,Norway
+2524,2017,Oman
+2525,2017,Pakistan
+2526,2017,Palau
+2527,2017,Panama
+2528,2017,Papua New Guinea
+2529,2017,Paraguay
+2530,2017,Peru
+2531,2017,Philippines
+2532,2017,Poland
+2533,2017,Portugal
+2534,2017,Puerto Rico
+2535,2017,Qatar
+2536,2017,Romania
+2537,2017,Russian Federation
+2538,2017,Rwanda
+2539,2017,Samoa
+2540,2017,San Marino
+2541,2017,Sao Tome and Principe
+2542,2017,Saudi Arabia
+2543,2017,Senegal
+2544,2017,Serbia
+2545,2017,Seychelles
+2546,2017,Sierra Leone
+2547,2017,Singapore
+2548,2017,Sint Maarten (Dutch part)
+2549,2017,Slovak Republic
+2550,2017,Slovenia
+2551,2017,Solomon Islands
+2552,2017,Somalia
+2553,2017,South Africa
+2554,2017,South Sudan
+2555,2017,Spain
+2556,2017,Sri Lanka
+2557,2017,St. Kitts and Nevis
+2558,2017,St. Lucia
+2559,2017,St. Martin (French part)
+2560,2017,St. Vincent and the Grenadines
+2561,2017,Sudan
+2562,2017,Suriname
+2563,2017,Sweden
+2564,2017,Switzerland
+2565,2017,Syrian Arab Republic
+2566,2017,Tajikistan
+2567,2017,Tanzania
+2568,2017,Thailand
+2569,2017,Timor-Leste
+2570,2017,Togo
+2571,2017,Tonga
+2572,2017,Trinidad and Tobago
+2573,2017,Tunisia
+2574,2017,Turkey
+2575,2017,Turkmenistan
+2576,2017,Turks and Caicos Islands
+2577,2017,Tuvalu
+2578,2017,Uganda
+2579,2017,Ukraine
+2580,2017,United Arab Emirates
+2581,2017,United Kingdom
+2582,2017,United States
+2583,2017,Uruguay
+2584,2017,Uzbekistan
+2585,2017,Vanuatu
+2586,2017,"Venezuela, RB"
+2587,2017,Vietnam
+2588,2017,Virgin Islands (U.S.)
+2589,2017,West Bank and Gaza
+2590,2017,"Yemen, Rep."
+2591,2017,Zambia
+2592,2017,Zimbabwe
+2593,2017,Arab World
+2594,2017,Caribbean small states
+2595,2017,Central Europe and the Baltics
+2596,2017,Early-demographic dividend
+2597,2017,East Asia & Pacific
+2598,2017,East Asia & Pacific (excluding high income)
+2599,2017,East Asia & Pacific (IDA & IBRD countries)
+2600,2017,Euro area
+2601,2017,Europe & Central Asia
+2602,2017,Europe & Central Asia (excluding high income)
+2603,2017,Europe & Central Asia (IDA & IBRD countries)
+2604,2017,European Union
+2605,2017,Fragile and conflict affected situations
+2606,2017,Heavily indebted poor countries (HIPC)
+2607,2017,High income
+2608,2017,IBRD only
+2609,2017,IDA & IBRD total
+2610,2017,IDA blend
+2611,2017,IDA only
+2612,2017,IDA total
+2613,2017,Late-demographic dividend
+2614,2017,Latin America & Caribbean
+2615,2017,Latin America & Caribbean (excluding high income)
+2616,2017,Latin America & the Caribbean (IDA & IBRD countries)
+2617,2017,Least developed countries: UN classification
+2618,2017,Low & middle income
+2619,2017,Low income
+2620,2017,Lower middle income
+2621,2017,Middle East & North Africa
+2622,2017,Middle East & North Africa (excluding high income)
+2623,2017,Middle East & North Africa (IDA & IBRD countries)
+2624,2017,Middle income
+2625,2017,North America
+2626,2017,Not classified
+2627,2017,OECD members
+2628,2017,Other small states
+2629,2017,Pacific island small states
+2630,2017,Post-demographic dividend
+2631,2017,Pre-demographic dividend
+2632,2017,Small states
+2633,2017,South Asia
+2634,2017,South Asia (IDA & IBRD)
+2635,2017,Sub-Saharan Africa
+2636,2017,Sub-Saharan Africa (excluding high income)
+2637,2017,Sub-Saharan Africa (IDA & IBRD countries)
+2638,2017,Upper middle income
+2639,2017,World
+2640,2018,Afghanistan
+2641,2018,Albania
+2642,2018,Algeria
+2643,2018,American Samoa
+2644,2018,Andorra
+2645,2018,Angola
+2646,2018,Antigua and Barbuda
+2647,2018,Argentina
+2648,2018,Armenia
+2649,2018,Aruba
+2650,2018,Australia
+2651,2018,Austria
+2652,2018,Azerbaijan
+2653,2018,"Bahamas, The"
+2654,2018,Bahrain
+2655,2018,Bangladesh
+2656,2018,Barbados
+2657,2018,Belarus
+2658,2018,Belgium
+2659,2018,Belize
+2660,2018,Benin
+2661,2018,Bermuda
+2662,2018,Bhutan
+2663,2018,Bolivia
+2664,2018,Bosnia and Herzegovina
+2665,2018,Botswana
+2666,2018,Brazil
+2667,2018,British Virgin Islands
+2668,2018,Brunei Darussalam
+2669,2018,Bulgaria
+2670,2018,Burkina Faso
+2671,2018,Burundi
+2672,2018,Cabo Verde
+2673,2018,Cambodia
+2674,2018,Cameroon
+2675,2018,Canada
+2676,2018,Cayman Islands
+2677,2018,Central African Republic
+2678,2018,Chad
+2679,2018,Channel Islands
+2680,2018,Chile
+2681,2018,China
+2682,2018,Colombia
+2683,2018,Comoros
+2684,2018,"Congo, Dem. Rep."
+2685,2018,"Congo, Rep."
+2686,2018,Costa Rica
+2687,2018,Cote d'Ivoire
+2688,2018,Croatia
+2689,2018,Cuba
+2690,2018,Curacao
+2691,2018,Cyprus
+2692,2018,Czech Republic
+2693,2018,Denmark
+2694,2018,Djibouti
+2695,2018,Dominica
+2696,2018,Dominican Republic
+2697,2018,Ecuador
+2698,2018,"Egypt, Arab Rep."
+2699,2018,El Salvador
+2700,2018,Equatorial Guinea
+2701,2018,Eritrea
+2702,2018,Estonia
+2703,2018,Eswatini
+2704,2018,Ethiopia
+2705,2018,Faroe Islands
+2706,2018,Fiji
+2707,2018,Finland
+2708,2018,France
+2709,2018,French Polynesia
+2710,2018,Gabon
+2711,2018,"Gambia, The"
+2712,2018,Georgia
+2713,2018,Germany
+2714,2018,Ghana
+2715,2018,Gibraltar
+2716,2018,Greece
+2717,2018,Greenland
+2718,2018,Grenada
+2719,2018,Guam
+2720,2018,Guatemala
+2721,2018,Guinea
+2722,2018,Guinea-Bissau
+2723,2018,Guyana
+2724,2018,Haiti
+2725,2018,Honduras
+2726,2018,"Hong Kong SAR, China"
+2727,2018,Hungary
+2728,2018,Iceland
+2729,2018,India
+2730,2018,Indonesia
+2731,2018,"Iran, Islamic Rep."
+2732,2018,Iraq
+2733,2018,Ireland
+2734,2018,Isle of Man
+2735,2018,Israel
+2736,2018,Italy
+2737,2018,Jamaica
+2738,2018,Japan
+2739,2018,Jordan
+2740,2018,Kazakhstan
+2741,2018,Kenya
+2742,2018,Kiribati
+2743,2018,"Korea, Dem. People’s Rep."
+2744,2018,"Korea, Rep."
+2745,2018,Kosovo
+2746,2018,Kuwait
+2747,2018,Kyrgyz Republic
+2748,2018,Lao PDR
+2749,2018,Latvia
+2750,2018,Lebanon
+2751,2018,Lesotho
+2752,2018,Liberia
+2753,2018,Libya
+2754,2018,Liechtenstein
+2755,2018,Lithuania
+2756,2018,Luxembourg
+2757,2018,"Macao SAR, China"
+2758,2018,Madagascar
+2759,2018,Malawi
+2760,2018,Malaysia
+2761,2018,Maldives
+2762,2018,Mali
+2763,2018,Malta
+2764,2018,Marshall Islands
+2765,2018,Mauritania
+2766,2018,Mauritius
+2767,2018,Mexico
+2768,2018,"Micronesia, Fed. Sts."
+2769,2018,Moldova
+2770,2018,Monaco
+2771,2018,Mongolia
+2772,2018,Montenegro
+2773,2018,Morocco
+2774,2018,Mozambique
+2775,2018,Myanmar
+2776,2018,Namibia
+2777,2018,Nauru
+2778,2018,Nepal
+2779,2018,Netherlands
+2780,2018,New Caledonia
+2781,2018,New Zealand
+2782,2018,Nicaragua
+2783,2018,Niger
+2784,2018,Nigeria
+2785,2018,North Macedonia
+2786,2018,Northern Mariana Islands
+2787,2018,Norway
+2788,2018,Oman
+2789,2018,Pakistan
+2790,2018,Palau
+2791,2018,Panama
+2792,2018,Papua New Guinea
+2793,2018,Paraguay
+2794,2018,Peru
+2795,2018,Philippines
+2796,2018,Poland
+2797,2018,Portugal
+2798,2018,Puerto Rico
+2799,2018,Qatar
+2800,2018,Romania
+2801,2018,Russian Federation
+2802,2018,Rwanda
+2803,2018,Samoa
+2804,2018,San Marino
+2805,2018,Sao Tome and Principe
+2806,2018,Saudi Arabia
+2807,2018,Senegal
+2808,2018,Serbia
+2809,2018,Seychelles
+2810,2018,Sierra Leone
+2811,2018,Singapore
+2812,2018,Sint Maarten (Dutch part)
+2813,2018,Slovak Republic
+2814,2018,Slovenia
+2815,2018,Solomon Islands
+2816,2018,Somalia
+2817,2018,South Africa
+2818,2018,South Sudan
+2819,2018,Spain
+2820,2018,Sri Lanka
+2821,2018,St. Kitts and Nevis
+2822,2018,St. Lucia
+2823,2018,St. Martin (French part)
+2824,2018,St. Vincent and the Grenadines
+2825,2018,Sudan
+2826,2018,Suriname
+2827,2018,Sweden
+2828,2018,Switzerland
+2829,2018,Syrian Arab Republic
+2830,2018,Tajikistan
+2831,2018,Tanzania
+2832,2018,Thailand
+2833,2018,Timor-Leste
+2834,2018,Togo
+2835,2018,Tonga
+2836,2018,Trinidad and Tobago
+2837,2018,Tunisia
+2838,2018,Turkey
+2839,2018,Turkmenistan
+2840,2018,Turks and Caicos Islands
+2841,2018,Tuvalu
+2842,2018,Uganda
+2843,2018,Ukraine
+2844,2018,United Arab Emirates
+2845,2018,United Kingdom
+2846,2018,United States
+2847,2018,Uruguay
+2848,2018,Uzbekistan
+2849,2018,Vanuatu
+2850,2018,"Venezuela, RB"
+2851,2018,Vietnam
+2852,2018,Virgin Islands (U.S.)
+2853,2018,West Bank and Gaza
+2854,2018,"Yemen, Rep."
+2855,2018,Zambia
+2856,2018,Zimbabwe
+2857,2018,Arab World
+2858,2018,Caribbean small states
+2859,2018,Central Europe and the Baltics
+2860,2018,Early-demographic dividend
+2861,2018,East Asia & Pacific
+2862,2018,East Asia & Pacific (excluding high income)
+2863,2018,East Asia & Pacific (IDA & IBRD countries)
+2864,2018,Euro area
+2865,2018,Europe & Central Asia
+2866,2018,Europe & Central Asia (excluding high income)
+2867,2018,Europe & Central Asia (IDA & IBRD countries)
+2868,2018,European Union
+2869,2018,Fragile and conflict affected situations
+2870,2018,Heavily indebted poor countries (HIPC)
+2871,2018,High income
+2872,2018,IBRD only
+2873,2018,IDA & IBRD total
+2874,2018,IDA blend
+2875,2018,IDA only
+2876,2018,IDA total
+2877,2018,Late-demographic dividend
+2878,2018,Latin America & Caribbean
+2879,2018,Latin America & Caribbean (excluding high income)
+2880,2018,Latin America & the Caribbean (IDA & IBRD countries)
+2881,2018,Least developed countries: UN classification
+2882,2018,Low & middle income
+2883,2018,Low income
+2884,2018,Lower middle income
+2885,2018,Middle East & North Africa
+2886,2018,Middle East & North Africa (excluding high income)
+2887,2018,Middle East & North Africa (IDA & IBRD countries)
+2888,2018,Middle income
+2889,2018,North America
+2890,2018,Not classified
+2891,2018,OECD members
+2892,2018,Other small states
+2893,2018,Pacific island small states
+2894,2018,Post-demographic dividend
+2895,2018,Pre-demographic dividend
+2896,2018,Small states
+2897,2018,South Asia
+2898,2018,South Asia (IDA & IBRD)
+2899,2018,Sub-Saharan Africa
+2900,2018,Sub-Saharan Africa (excluding high income)
+2901,2018,Sub-Saharan Africa (IDA & IBRD countries)
+2902,2018,Upper middle income
+2903,2018,World
+2904,2019,Afghanistan
+2905,2019,Albania
+2906,2019,Algeria
+2907,2019,American Samoa
+2908,2019,Andorra
+2909,2019,Angola
+2910,2019,Antigua and Barbuda
+2911,2019,Argentina
+2912,2019,Armenia
+2913,2019,Aruba
+2914,2019,Australia
+2915,2019,Austria
+2916,2019,Azerbaijan
+2917,2019,"Bahamas, The"
+2918,2019,Bahrain
+2919,2019,Bangladesh
+2920,2019,Barbados
+2921,2019,Belarus
+2922,2019,Belgium
+2923,2019,Belize
+2924,2019,Benin
+2925,2019,Bermuda
+2926,2019,Bhutan
+2927,2019,Bolivia
+2928,2019,Bosnia and Herzegovina
+2929,2019,Botswana
+2930,2019,Brazil
+2931,2019,British Virgin Islands
+2932,2019,Brunei Darussalam
+2933,2019,Bulgaria
+2934,2019,Burkina Faso
+2935,2019,Burundi
+2936,2019,Cabo Verde
+2937,2019,Cambodia
+2938,2019,Cameroon
+2939,2019,Canada
+2940,2019,Cayman Islands
+2941,2019,Central African Republic
+2942,2019,Chad
+2943,2019,Channel Islands
+2944,2019,Chile
+2945,2019,China
+2946,2019,Colombia
+2947,2019,Comoros
+2948,2019,"Congo, Dem. Rep."
+2949,2019,"Congo, Rep."
+2950,2019,Costa Rica
+2951,2019,Cote d'Ivoire
+2952,2019,Croatia
+2953,2019,Cuba
+2954,2019,Curacao
+2955,2019,Cyprus
+2956,2019,Czech Republic
+2957,2019,Denmark
+2958,2019,Djibouti
+2959,2019,Dominica
+2960,2019,Dominican Republic
+2961,2019,Ecuador
+2962,2019,"Egypt, Arab Rep."
+2963,2019,El Salvador
+2964,2019,Equatorial Guinea
+2965,2019,Eritrea
+2966,2019,Estonia
+2967,2019,Eswatini
+2968,2019,Ethiopia
+2969,2019,Faroe Islands
+2970,2019,Fiji
+2971,2019,Finland
+2972,2019,France
+2973,2019,French Polynesia
+2974,2019,Gabon
+2975,2019,"Gambia, The"
+2976,2019,Georgia
+2977,2019,Germany
+2978,2019,Ghana
+2979,2019,Gibraltar
+2980,2019,Greece
+2981,2019,Greenland
+2982,2019,Grenada
+2983,2019,Guam
+2984,2019,Guatemala
+2985,2019,Guinea
+2986,2019,Guinea-Bissau
+2987,2019,Guyana
+2988,2019,Haiti
+2989,2019,Honduras
+2990,2019,"Hong Kong SAR, China"
+2991,2019,Hungary
+2992,2019,Iceland
+2993,2019,India
+2994,2019,Indonesia
+2995,2019,"Iran, Islamic Rep."
+2996,2019,Iraq
+2997,2019,Ireland
+2998,2019,Isle of Man
+2999,2019,Israel
+3000,2019,Italy
+3001,2019,Jamaica
+3002,2019,Japan
+3003,2019,Jordan
+3004,2019,Kazakhstan
+3005,2019,Kenya
+3006,2019,Kiribati
+3007,2019,"Korea, Dem. People’s Rep."
+3008,2019,"Korea, Rep."
+3009,2019,Kosovo
+3010,2019,Kuwait
+3011,2019,Kyrgyz Republic
+3012,2019,Lao PDR
+3013,2019,Latvia
+3014,2019,Lebanon
+3015,2019,Lesotho
+3016,2019,Liberia
+3017,2019,Libya
+3018,2019,Liechtenstein
+3019,2019,Lithuania
+3020,2019,Luxembourg
+3021,2019,"Macao SAR, China"
+3022,2019,Madagascar
+3023,2019,Malawi
+3024,2019,Malaysia
+3025,2019,Maldives
+3026,2019,Mali
+3027,2019,Malta
+3028,2019,Marshall Islands
+3029,2019,Mauritania
+3030,2019,Mauritius
+3031,2019,Mexico
+3032,2019,"Micronesia, Fed. Sts."
+3033,2019,Moldova
+3034,2019,Monaco
+3035,2019,Mongolia
+3036,2019,Montenegro
+3037,2019,Morocco
+3038,2019,Mozambique
+3039,2019,Myanmar
+3040,2019,Namibia
+3041,2019,Nauru
+3042,2019,Nepal
+3043,2019,Netherlands
+3044,2019,New Caledonia
+3045,2019,New Zealand
+3046,2019,Nicaragua
+3047,2019,Niger
+3048,2019,Nigeria
+3049,2019,North Macedonia
+3050,2019,Northern Mariana Islands
+3051,2019,Norway
+3052,2019,Oman
+3053,2019,Pakistan
+3054,2019,Palau
+3055,2019,Panama
+3056,2019,Papua New Guinea
+3057,2019,Paraguay
+3058,2019,Peru
+3059,2019,Philippines
+3060,2019,Poland
+3061,2019,Portugal
+3062,2019,Puerto Rico
+3063,2019,Qatar
+3064,2019,Romania
+3065,2019,Russian Federation
+3066,2019,Rwanda
+3067,2019,Samoa
+3068,2019,San Marino
+3069,2019,Sao Tome and Principe
+3070,2019,Saudi Arabia
+3071,2019,Senegal
+3072,2019,Serbia
+3073,2019,Seychelles
+3074,2019,Sierra Leone
+3075,2019,Singapore
+3076,2019,Sint Maarten (Dutch part)
+3077,2019,Slovak Republic
+3078,2019,Slovenia
+3079,2019,Solomon Islands
+3080,2019,Somalia
+3081,2019,South Africa
+3082,2019,South Sudan
+3083,2019,Spain
+3084,2019,Sri Lanka
+3085,2019,St. Kitts and Nevis
+3086,2019,St. Lucia
+3087,2019,St. Martin (French part)
+3088,2019,St. Vincent and the Grenadines
+3089,2019,Sudan
+3090,2019,Suriname
+3091,2019,Sweden
+3092,2019,Switzerland
+3093,2019,Syrian Arab Republic
+3094,2019,Tajikistan
+3095,2019,Tanzania
+3096,2019,Thailand
+3097,2019,Timor-Leste
+3098,2019,Togo
+3099,2019,Tonga
+3100,2019,Trinidad and Tobago
+3101,2019,Tunisia
+3102,2019,Turkey
+3103,2019,Turkmenistan
+3104,2019,Turks and Caicos Islands
+3105,2019,Tuvalu
+3106,2019,Uganda
+3107,2019,Ukraine
+3108,2019,United Arab Emirates
+3109,2019,United Kingdom
+3110,2019,United States
+3111,2019,Uruguay
+3112,2019,Uzbekistan
+3113,2019,Vanuatu
+3114,2019,"Venezuela, RB"
+3115,2019,Vietnam
+3116,2019,Virgin Islands (U.S.)
+3117,2019,West Bank and Gaza
+3118,2019,"Yemen, Rep."
+3119,2019,Zambia
+3120,2019,Zimbabwe
+3121,2019,Arab World
+3122,2019,Caribbean small states
+3123,2019,Central Europe and the Baltics
+3124,2019,Early-demographic dividend
+3125,2019,East Asia & Pacific
+3126,2019,East Asia & Pacific (excluding high income)
+3127,2019,East Asia & Pacific (IDA & IBRD countries)
+3128,2019,Euro area
+3129,2019,Europe & Central Asia
+3130,2019,Europe & Central Asia (excluding high income)
+3131,2019,Europe & Central Asia (IDA & IBRD countries)
+3132,2019,European Union
+3133,2019,Fragile and conflict affected situations
+3134,2019,Heavily indebted poor countries (HIPC)
+3135,2019,High income
+3136,2019,IBRD only
+3137,2019,IDA & IBRD total
+3138,2019,IDA blend
+3139,2019,IDA only
+3140,2019,IDA total
+3141,2019,Late-demographic dividend
+3142,2019,Latin America & Caribbean
+3143,2019,Latin America & Caribbean (excluding high income)
+3144,2019,Latin America & the Caribbean (IDA & IBRD countries)
+3145,2019,Least developed countries: UN classification
+3146,2019,Low & middle income
+3147,2019,Low income
+3148,2019,Lower middle income
+3149,2019,Middle East & North Africa
+3150,2019,Middle East & North Africa (excluding high income)
+3151,2019,Middle East & North Africa (IDA & IBRD countries)
+3152,2019,Middle income
+3153,2019,North America
+3154,2019,Not classified
+3155,2019,OECD members
+3156,2019,Other small states
+3157,2019,Pacific island small states
+3158,2019,Post-demographic dividend
+3159,2019,Pre-demographic dividend
+3160,2019,Small states
+3161,2019,South Asia
+3162,2019,South Asia (IDA & IBRD)
+3163,2019,Sub-Saharan Africa
+3164,2019,Sub-Saharan Africa (excluding high income)
+3165,2019,Sub-Saharan Africa (IDA & IBRD countries)
+3166,2019,Upper middle income
+3167,2019,World
